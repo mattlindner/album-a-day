@@ -19,7 +19,18 @@ function generateMonth(year, monthIndex) {
   const daysInMonth = new Date(year, monthIndex + 1, 0).getDate();
 
   const calendar = document.getElementById("poop");
-  calendar.innerHTML += `<h1>${monthNames[monthIndex]}</h1>`;
+  const h1 = document.createElement("h1");
+  h1.textContent = monthNames[monthIndex];
+  h1.addEventListener("click", () => {
+    const monthAlbums = Object.keys(albums)
+      .filter((date) =>
+        date.includes(`${year}-${(monthIndex + 1).toString().padStart(2, "0")}`)
+      )
+      .flatMap((k) => albums[k]);
+
+    openModal(monthNames[monthIndex], monthAlbums);
+  });
+  calendar.appendChild(h1);
 
   const ul = document.createElement("ul");
 
@@ -55,7 +66,9 @@ function generateMonth(year, monthIndex) {
       .forEach((artwork, i) => {
         const img = document.createElement("img");
         img.setAttribute("src", artwork);
-        img.setAttribute("onclick", `openModal('${dateTimeString}')`);
+        img.addEventListener("click", () =>
+          openModal(dateTimeString, albums[dateTimeString])
+        );
         img.setAttribute(
           "style",
           `transform: rotate(${
@@ -64,10 +77,6 @@ function generateMonth(year, monthIndex) {
         );
         dayElement.appendChild(img);
       });
-
-    if (albumArtworks.length > 0) {
-      // li.setAttribute("style", "background-color: #f0f0f0");
-    }
 
     // matt todo :- i might need to do the datetime pad string logic here
     if (
@@ -82,12 +91,11 @@ function generateMonth(year, monthIndex) {
   }
 }
 
-function openModal(dateTimeString) {
+function openModal(title, todaysAlbums) {
   const modal = document.getElementById("modal");
   const modalContent = document.getElementById("modal-content");
-  const todaysAlbums = albums[dateTimeString] ?? [];
+  modalContent.innerHTML += `<h1>${title}</h1>`;
 
-  modalContent.innerHTML += `<h1>${dateTimeString}</h1>`;
   const albumsDiv = document.createElement("div");
 
   const createSection = (sectionName, value) => {
