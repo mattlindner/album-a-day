@@ -549,6 +549,51 @@ const albums = {
       album: "I Want to be There",
     },
   ],
+  "2025-03-01": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.jpc.de%2Fimage%2Fw600%2Ffront%2F0%2F0602537288526.jpg&f=1&nofb=1&ipt=e8be9f5b95f96787f3227621d8f08c69041d6fa8b88947dd8041fc60b0e7d033&ipo=images",
+      rym: "https://rateyourmusic.com/release/album/scott-engel/scott-4/",
+      artist: "Scott Walker",
+      album: "Scott 4",
+    },
+  ],
+  "2025-03-02": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.discogs.com%2Ft1T0pPkiUiYJoV46WsNwsdunSac%3D%2Ffit-in%2F600x596%2Ffilters%3Astrip_icc()%3Aformat(jpeg)%3Amode_rgb()%3Aquality(90)%2Fdiscogs-images%2FR-81247-1494450801-5353.jpeg.jpg&f=1&nofb=1&ipt=fc248f2bb85267be075dcc239f62bb149c4f1e646db049d8207c0bbaec11c526&ipo=images",
+      rym: "https://rateyourmusic.com/release/ep/godflesh/godflesh/",
+      artist: "Godflesh",
+      album: "Godflesh",
+    },
+  ],
+  "2025-03-03": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.emp.co.uk%2Fdw%2Fimage%2Fv2%2FBBQV_PRD%2Fon%2Fdemandware.static%2F-%2FSites-master-emp%2Fdefault%2Fdwccd79087%2Fimages%2F3%2F9%2F4%2F8%2F394823a.jpg%3Fsw%3D1000%26sh%3D800%26sm%3Dfit%26sfrm%3Dpng&f=1&nofb=1&ipt=b4055b0ffe5733e33cd0b0a9148e870a6ce78692d4293709a667b9e6faa9c4f5&ipo=images",
+      rym: "https://rateyourmusic.com/release/album/godflesh/streetcleaner/",
+      artist: "Godflesh",
+      album: "Streetcleaner",
+    },
+  ],
+  "2025-03-04": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ff4.bcbits.com%2Fimg%2Fa0403833169_10.jpg&f=1&nofb=1&ipt=5aeee220368e5d8bdfe367d6266aacdfa4dfbb65a246927306ea18a7cba24007&ipo=images",
+      rym: "https://rateyourmusic.com/release/album/incantation/diabolical-conquest/",
+      artist: "Incantation",
+      album: "Diabolical Conquest",
+    },
+  ],
+  "2025-03-05": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmetalitalia.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fneurosis-FIRES-WITHIN-FIRES-album-2016.jpg&f=1&nofb=1&ipt=1ac200c80f3587d17b2128b582a4ff9a8e67dc5aeb5a658984fa8cd0c38a9c81&ipo=images",
+      rym: "https://rateyourmusic.com/release/album/neurosis/fires-within-fires/",
+      artist: "Neurosis",
+      album: "Fires Within Fires",
+    },
+  ],
 };
 
 // {
