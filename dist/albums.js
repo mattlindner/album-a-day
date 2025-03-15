@@ -594,6 +594,87 @@ const albums = {
       album: "Fires Within Fires",
     },
   ],
+  "2025-03-06": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.B34_AZcrQxyLbA34X1hkWwHaHa%26pid%3DApi&f=1&ipt=63088c90f3ed1f9cebb918928801153e15eab2da2a7c6b10774b0b63dc51d239&ipo=images",
+      rym: "https://rateyourmusic.com/release/album/armand-hammer/we-buy-diabetic-test-strips/",
+      artist: "Armand Hammer",
+      album: "We Buy Diabetic Test Strips ",
+    },
+  ],
+  "2025-03-07": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.genius.com%2F5de9704b9bd8773ddbcb1de962f62386.1000x1000x1.jpg&f=1&nofb=1&ipt=35e9a7ff7a7dc281068846c53ef71bdfee4fbae1f4d5a0c6070ddd694806645d&ipo=images",
+      rym: "https://rateyourmusic.com/release/album/bob-dylan/highway-61-revisited/",
+      artist: "Bob Dylan",
+      album: "Highway 61 Revisited ",
+    },
+  ],
+  "2025-03-08": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F1.bp.blogspot.com%2F-fCpS6aAnWwk%2FUATX6NweRRI%2FAAAAAAAAD-o%2FJjUvDqZr1gU%2Fs1600%2FEntombed-Clandestine.jpg&f=1&nofb=1&ipt=b17635c45d179d251dd0216a190ab5e34c3b67ab3955596dddb1410b3a2f4346&ipo=images",
+      rym: "https://rateyourmusic.com/release/album/entombed/clandestine/",
+      artist: "Entombed",
+      album: "Clandestine",
+    },
+  ],
+  "2025-03-09": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.metalkingdom.net%2Falbum-cover-artwork%2F2018%2F07%2F4%2F124948-Hopesfall-No-Wings-to-Speak-Of.jpg&f=1&nofb=1&ipt=e76b8fce9309ba6028429dc8aa1d27ea84117a69405cc30966005c678dcbb7b3&ipo=images",
+      rym: "https://rateyourmusic.com/release/ep/hopesfall/no-wings-to-speak-of/",
+      artist: "Hopesfall",
+      album: "No Wings to Speak Of ",
+    },
+  ],
+  "2025-03-10": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi0.wp.com%2Fwww.scienceofnoise.net%2Fwp-content%2Fuploads%2F2018%2F09%2Fentombed-wolverine-blues-cd-nuevo-cerrado-D_NQ_NP_997117-MLA26953462673_032018-F.jpg&f=1&nofb=1&ipt=5306785da8e27e5c58917975d868c8c7862a79d6f7ded16b9e5eaaba21f7b2b8&ipo=images",
+      rym: "https://rateyourmusic.com/release/album/entombed/wolverine-blues/",
+      artist: "Entombed",
+      album: "Wolverine Blues ",
+    },
+  ],
+  "2025-03-11": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ff4.bcbits.com%2Fimg%2Fa2377691659_10.jpg&f=1&nofb=1&ipt=1430febb91f68161d29f4ba09cf2ce6c385ec3e8ea805d62a42c329ccf88256d&ipo=images",
+      rym: "https://rateyourmusic.com/release/album/missouri-executive-order-44/salt-sermon/",
+      artist: "Missouri Executive Order 44",
+      album: "Salt Sermon",
+    },
+  ],
+  "2025-03-12": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Frevistaladosis.com%2Fwp-content%2Fuploads%2F2023%2F10%2FPescado-Rabioso-Artaud.jpg&f=1&nofb=1&ipt=645b652143ed6d38a7912254b0395dae586beb181f49a557c89b1f98b6f21ebb&ipo=images",
+      rym: "https://rateyourmusic.com/release/album/pescado-rabioso/artaud/",
+      artist: "Pescado Rabioso",
+      album: "Artaud",
+    },
+  ],
+  "2025-03-13": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FMusic116%2Fv4%2F52%2Ffa%2Fc1%2F52fac1b7-a34d-2691-f4b0-a906952d82f2%2Fartwork.jpg%2F1200x1200bf-60.jpg&f=1&nofb=1&ipt=fbebf20ef81aeeebd8f94de30b0f61e582e1368f11615f5713b40449c98240db&ipo=images",
+      rym: "https://rateyourmusic.com/release/ep/missouri-executive-order-44/seventeen-dead-in-caldwell-county/",
+      artist: "Missouri Executive Order 44",
+      album: "Seventeen Dead in Caldwell County",
+    },
+  ],
+  "2025-03-14": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.discogs.com%2FQuG4rYNPJ_cahc1WoQ1g5NR8nYk%3D%2Ffit-in%2F600x600%2Ffilters%3Astrip_icc()%3Aformat(jpeg)%3Amode_rgb()%3Aquality(90)%2Fdiscogs-images%2FR-10463173-1497951744-9946.jpeg.jpg&f=1&nofb=1&ipt=5721cf1fbc74eac7c45510cd2f93dc5dd8cb9ce4a59ff09dce0584e0009bc555&ipo=images",
+      rym: "https://rateyourmusic.com/release/album/crowbar/broken-glass/",
+      artist: "Crowbar",
+      album: "Broken Glass",
+    },
+  ],
 };
 
 // {
