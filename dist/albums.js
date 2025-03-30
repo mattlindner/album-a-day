@@ -675,6 +675,150 @@ const albums = {
       album: "Broken Glass",
     },
   ],
+  "2025-03-15": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ff4.bcbits.com%2Fimg%2F0014400394_10.jpg&f=1&nofb=1&ipt=944284e5a058afc3e11c8707b560a46208dba23493b773d0b903b1c906b0c076&ipo=images",
+      rym: "https://rateyourmusic.com/release/comp/urfaust/ritual-music-for-the-true-clochard/",
+      artist: "Urfaust",
+      album: "Ritual Music for the True Clochard",
+    },
+  ],
+  "2025-03-16": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fb2%2F04%2F82%2Fb2048287591b4b39b075fa6f1841def1.jpg&f=1&nofb=1&ipt=276cef8272117241a1a1167c0549a12ddf43ff1e7de777d791b61f360099e41a&ipo=images",
+      rym: "https://rateyourmusic.com/release/album/beck/odelay/",
+      artist: "Beck",
+      album: "Odelay",
+    },
+  ],
+  "2025-03-17": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcoverartarchive.org%2Frelease%2F1e181619-38d2-48b8-bfcd-eb1963ebc649%2F27307567888-500.jpg&f=1&nofb=1&ipt=541da9c6dbf263d5d2d1bd6a0430524ceb7c93dcbd9da3ddfdbedaf3a3298c7f&ipo=images",
+      rym: "https://rateyourmusic.com/release/album/sigur-ros/agaetis-byrjun/",
+      artist: "Sigur Rós",
+      album: "Ágætis byrjun",
+    },
+  ],
+  "2025-03-18": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs.pacn.ws%2F1%2Fp%2F11m%2Fwindswept-adan-677245.1.jpg%3Fv%3Dqtft88&f=1&nofb=1&ipt=187024a674a6b3b0e072d2f50a3a408c8de9162597bc9e4cdbbe2408395c7af2&ipo=images",
+      rym: "https://rateyourmusic.com/release/album/%E9%9D%92%E8%91%89%E5%B8%82%E5%AD%90/%E3%82%A2%E3%83%80%E3%83%B3%E3%81%AE%E9%A2%A8/",
+      artist: "青葉市子 (Ichiko Aoba)",
+      album: "アダンの風 (Windswept Adan)",
+    },
+  ],
+  "2025-03-19": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.apmcdn.org%2F50d01c6b074ea0f386aa59fb79a2c28ed8f2842b%2Funcropped%2F88c963-20130903-replacements-let-it-be-album-cover.jpg&f=1&nofb=1&ipt=6992170a8cb487eb5d9851d7c57a958c581de02c88fc96c6bae6dd74455a7b17&ipo=images",
+      rym: "https://rateyourmusic.com/release/album/the-replacements/let-it-be/",
+      artist: "The Replacements",
+      album: "Let it Be",
+    },
+  ],
+  "2025-03-20": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fartrockstore.com%2Fcdn%2Fshop%2Fproducts%2Fartrockstore-nine-inch-nails-still-album_grande.jpg%3Fv%3D1683171190&f=1&nofb=1&ipt=75406764fa786dd5c9de4c5051d3803d59b40fee8886d2cb814a4b4a209b1425&ipo=images",
+      rym: "https://rateyourmusic.com/release/album/nine-inch-nails/still/",
+      artist: "Nine Inch Nails",
+      album: "Still",
+    },
+  ],
+  "2025-03-21": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ff4.bcbits.com%2Fimg%2Fa3047147313_10.jpg&f=1&nofb=1&ipt=336a831c44f7f53c180e99542eff617ee90cd6d8124e0003c94ee98520ea8166&ipo=images",
+      rym: "https://rateyourmusic.com/release/comp/dawn-of-orion/a-celestial-ballad/",
+      artist: "Dawn of Orion",
+      album: "A Celestial Ballad",
+    },
+  ],
+  "2025-03-22": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.discogs.com%2F65wQ0-LofLJtlwMNG-LmC2kJDq4%3D%2Ffit-in%2F450x444%2Ffilters%3Astrip_icc()%3Aformat(jpeg)%3Amode_rgb()%3Aquality(90)%2Fdiscogs-images%2FR-698869-1228403559.jpeg.jpg&f=1&nofb=1&ipt=8fbee0d7ac726089fc38730d43b4263cc398cd8f359fb5455e1b115dc6214ebf&ipo=images",
+      rym: "https://rateyourmusic.com/release/album/eightball-and-mjg/on-top-of-the-world/",
+      artist: "8Ball & MJG",
+      album: "On Top of the World",
+    },
+  ],
+  "2025-03-23": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsunmetalshop.com%2Fwp-content%2Fuploads%2F2021%2F03%2FBathory_Hammerheart-1024x1021.jpg&f=1&nofb=1&ipt=802b14045624f94883c4f7847fb9acb4d5bfa4e1ddb07366fa6d3f21c1a11bbb&ipo=images",
+      rym: "https://rateyourmusic.com/release/album/bathory/hammerheart/",
+      artist: "Bathory",
+      album: "Hammerheart",
+    },
+  ],
+  "2025-03-24": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.metal-archives.com%2Fimages%2F4%2F1%2F6%2F4%2F416475.jpg%3F5243&f=1&nofb=1&ipt=05c3fb9b11dfd4dc1590c19194124146449db1950e07cac181efe255f0693e69&ipo=images",
+      rym: "https://rateyourmusic.com/release/album/demolition-hammer/tortured-existence/",
+      artist: "Demolition Hammer",
+      album: "Tortured Existence",
+    },
+  ],
+  "2025-03-25": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblackwaterpdx.com%2Fstore%2Fwp-content%2Fuploads%2Fsites%2F2%2F2018%2F09%2FBathory-Self-Titled.jpg&f=1&nofb=1&ipt=9cd4a82fb5a019aad91f50dd899d8eb435dec392d0a3a549c312a7b0b2d2df76&ipo=images",
+      rym: "https://rateyourmusic.com/release/album/bathory/bathory/",
+      artist: "Bathory",
+      album: "Bathory",
+    },
+  ],
+  "2025-03-26": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.discogs.com%2FZPLuFCBAnDZVanpceZoMvh_QXhzmsQa9FMXrXlRQjkg%2Frs%3Afit%2Fg%3Asm%2Fq%3A90%2Fh%3A600%2Fw%3A600%2FczM6Ly9kaXNjb2dz%2FLWRhdGFiYXNlLWlt%2FYWdlcy9SLTIxMjE4%2FMDYtMTI2NTIyNzA2%2FNS5qcGVn.jpeg&f=1&nofb=1&ipt=f63a9cd1244114c27582d9fb2010ad84f3c2d519ae85f42ac98289ad471e1b5b&ipo=images",
+      rym: "https://rateyourmusic.com/release/album/die-kreuzen/die-kreuzen-3/",
+      artist: "Die Kreuzen",
+      album: "Die Kreuzen",
+    },
+  ],
+  "2025-03-27": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.genius.com%2F744525ad5e38fe941832dde9dd9f6e41.640x640x1.jpg&f=1&nofb=1&ipt=331524cabc71b864300b3273d4d09c69cc78c17580b2bc3bd377e7ebbd32e49d&ipo=images",
+      rym: "https://rateyourmusic.com/release/album/lil-ugly-mane/three-sided-tape-volume-one/",
+      artist: "Lil Ugly Mane",
+      album: "Three Sided Tape Volume One",
+    },
+  ],
+  "2025-03-28": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.normanrecords.com%2Fartwork%2Flarge%2F11%2F207511-deafheaven-lonely-people-with-power.jpg&f=1&nofb=1&ipt=4d1e6027e331f0f68628472faf38acb2fae041faeda608810e530c562aba23f9&ipo=images",
+      rym: "https://rateyourmusic.com/release/album/deafheaven/lonely-people-with-power/",
+      artist: "Deafheaven",
+      album: "Lonely People With Power",
+    },
+  ],
+  "2025-03-29": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdyingscene.com%2Fwp-content%2Fuploads%2F2023%2F11%2Funnamed-9-scaled.jpg&f=1&nofb=1&ipt=500d5fbff1e195de84095afafbece4a5ac6976d973ac683c36fac2702bbeff90&ipo=images",
+      rym: "https://rateyourmusic.com/release/album/the-chisel/what-a-fucking-nightmare/",
+      artist: "The Chisel",
+      album: "What a Fucking Nightmare",
+    },
+  ],
+  "2025-03-30": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgamepedia.cursecdn.com%2Fminecraft_gamepedia%2F2%2F2c%2FMinecraft_-_Volume_Beta_cover.jpg&f=1&nofb=1&ipt=5cf31597ad1da5d91fbadc5e8494c93dc87c6383568930ae9b3578372bfedc71",
+      rym: "https://rateyourmusic.com/release/album/c418/minecraft-volume-beta/",
+      artist: "C418",
+      album: "Minecraft: Volume Beta",
+    },
+  ],
 };
 
 // {
