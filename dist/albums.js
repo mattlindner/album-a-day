@@ -819,6 +819,177 @@ const albums = {
       album: "Minecraft: Volume Beta",
     },
   ],
+  "2025-03-31": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F4.bp.blogspot.com%2F_YyqkHBkk1-0%2FS_AcW7_2j2I%2FAAAAAAAAAGQ%2FCCeVCoci1rk%2Fw1200-h630-p-k-no-nu%2F00-eightball_and_mjg-comin_out_hard.jpg&f=1&nofb=1&ipt=32be556c631803e30021d17c8fa21a40c5bc8f52924c09cdee45986698fc6649",
+      rym: "https://rateyourmusic.com/release/album/eightball-and-mjg/comin-out-hard/",
+      artist: "8Ball & MJG",
+      album: "Comin' Out Hard",
+    },
+  ],
+  "2025-04-01": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdistortedsoundmag.com%2Fwp-content%2Fuploads%2F2020%2F10%2F10-Years-Gone-Deafheaven.jpg&f=1&nofb=1&ipt=6b055f632f7626f429d0cc4f7751fe020a289fdb6ba98284e06ccc5e9522cb44&ipo=images",
+      rym: "https://rateyourmusic.com/release/additional/deafheaven/10-years-gone/",
+      artist: "Deafheaven",
+      album: "10 Years Gone",
+    },
+  ],
+  "2025-04-02": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcoverartarchive.org%2Frelease%2Fb9a2011a-0644-43bb-8273-fba94b42df0f%2F30446924629-500.jpg&f=1&nofb=1&ipt=fb78a54d2888708680fd64127319e83710bef7ed921818cd0b6f9130ab0cc96b&ipo=images",
+      rym: "https://rateyourmusic.com/release/mixtape/lil-ugly-mane/playaz-circle-1/",
+      artist: "Lil Ugly Mane",
+      album: "Playaz Circle",
+    },
+  ],
+  "2025-04-03": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F2.bp.blogspot.com%2F-3cvNw62YVHY%2FWtArtL5uViI%2FAAAAAAAAO9g%2FURZYU4HOCRs-f2FecrVVq_1FpmskWqacQCLcBGAs%2Fs1600%2FTwilight%252Bof%252BThe%252BGods.jpg&f=1&nofb=1&ipt=a1f012af0df2afbfa6fd5ef613a8c8fb4c3c70b9876806a5f4859b895fd46e1d&ipo=images",
+      rym: "https://rateyourmusic.com/release/album/bathory/twilight-of-the-gods/",
+      artist: "Bathory",
+      album: "Twilight of the Gods",
+    },
+  ],
+  "2025-04-04": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2F736x%2F6a%2Fe3%2Fb8%2F6ae3b89f6727411d200555e5b2df8f92--pavement-vinyl-lp.jpg&f=1&nofb=1&ipt=8c2850c66bcb4a38fa249526e4bcb073c4d6663ac7c8fccd0850d6540179bcdd&ipo=images",
+      rym: "https://rateyourmusic.com/release/album/pavement/crooked-rain-crooked-rain-11/",
+      artist: "Pavement",
+      album: "Crooked Rain, Crooked Rain",
+    },
+  ],
+  "2025-04-05": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.hmv.com%2Fr%2Fw-1280%2Fhmv%2Ffiles%2F73%2F73e4e5d5-ddb0-4c03-8104-13f17a551f3f.jpg&f=1&nofb=1&ipt=1d096f6d4806717d90e813be7f8d1db03a5b8f8bc03b3bd4ce9f48ce7fcf975e&ipo=images",
+      rym: "https://rateyourmusic.com/release/album/pavement/wowee-zowee/",
+      artist: "Pavement",
+      album: "Wowee Zowee",
+    },
+  ],
+  "2025-04-06": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0002%2F7053%2F2620%2Fproducts%2FPavement-WATERY-DOMESTIC_Y3VmP_500x500.jpg%3Fv%3D1684978888&f=1&nofb=1&ipt=06c8c9de8a3cbf2b76a514ca059f95b2768ead8d503a275ce63b3f8757e2c09d&ipo=images",
+      rym: "https://rateyourmusic.com/release/ep/pavement/watery-domestic/",
+      artist: "Pavement",
+      album: "Watery, Domestic",
+    },
+  ],
+  "2025-04-07": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi1.wp.com%2Fyourlastrites.com%2Fwp-content%2Fuploads%2F2017%2F07%2FLeviathan-Massive-Conspiracy-Against-Life.jpg%3Ffit%3D1080%252C1080%26ssl%3D1&f=1&nofb=1&ipt=1e8ff710e6001516a25b68998bb410763c179df4c92f7db99a6d16fd9dbbf224&ipo=images",
+      rym: "https://rateyourmusic.com/release/album/leviathan/massive-conspiracy-against-all-life/",
+      artist: "Leviathan",
+      album: "Massive Conspiracy Against All Life",
+    },
+  ],
+  "2025-04-08": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.discogs.com%2FBXHy6gwpEIg3HgWHae2A5wY6b3o%3D%2Ffit-in%2F600x600%2Ffilters%3Astrip_icc()%3Aformat(jpeg)%3Amode_rgb()%3Aquality(90)%2Fdiscogs-images%2FR-4260887-1360009977-3114.jpeg.jpg&f=1&nofb=1&ipt=35d3f9adddebcd6eb0e523a8c3e47d8790db1e5283c1283e54dc9d0664730b0f",
+      rym: "https://rateyourmusic.com/release/album/sacramentum/far-away-from-the-sun-8/",
+      artist: "Sacramentum",
+      album: "Far Away From the Sun",
+    },
+  ],
+  "2025-04-09": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ff4.bcbits.com%2Fimg%2Fa2881869020_10.jpg&f=1&nofb=1&ipt=b73f2cfb7aba7180c96e75f2e772ed4240bafdd6b7c1226417e6b6ece224f5d3",
+      rym: "https://rateyourmusic.com/release/album/panopticon/autumn-eternal/",
+      artist: "Panopticon",
+      album: "Autumn Eternal",
+    },
+  ],
+  "2025-04-10": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.metal-archives.com%2Fimages%2F3%2F4%2F3%2F5%2F343550.jpg%3F3731&f=1&nofb=1&ipt=a78a3b0573ec7dcfb1c892bf9a12818a55d3f32ee2bc2d2772e85dd607b99066",
+      rym: "https://rateyourmusic.com/release/album/panopticon/kentucky/",
+      artist: "Panopticon",
+      album: "Kentucky",
+    },
+  ],
+  "2025-04-11": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F51TjXWGpQML._SX300_SY300_QL70_ML2_.jpg&f=1&nofb=1&ipt=631f4805bc3e9a4d42f1b7196150782259bb8e8cae8b56f7013c1d58c2875811",
+      rym: "https://rateyourmusic.com/release/album/gris/a-lame-enflammee-lame-constellee/",
+      artist: "Gris",
+      album: "À l'âme enflammée, l'âme constellée...",
+    },
+  ],
+  "2025-04-12": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fapi.floodmagazine.com%2Fwp-content%2Fuploads%2F2021%2F04%2FKero-Kero-Bonito-Civilization-II.jpg&f=1&nofb=1&ipt=25343ff5e634c7df6b44d88b6bbeaa24a0240eefafe60c2754f10b7b13b2a4e9",
+      rym: "https://rateyourmusic.com/release/ep/kero-kero-bonito/civilisation-ii/",
+      artist: "Kero Kero Bonito",
+      album: "Civilisation II",
+    },
+  ],
+  "2025-04-13": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.brooklynvegan.com%2Ffiles%2F2018%2F10%2Ftimenplacecover.jpg&f=1&nofb=1&ipt=24f083201d375785957b132677f59c8d4828e49c623a04ad2ac9a00e29ac7594",
+      rym: "https://rateyourmusic.com/release/album/kero-kero-bonito/time-n-place/",
+      artist: "Kero Kero Bonito",
+      album: "Time 'n' Place",
+    },
+  ],
+  "2025-04-14": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.discogs.com%2Fzva0IaArbMx-oeNB58gEJKP7cIw%3D%2Ffit-in%2F597x600%2Ffilters%3Astrip_icc()%3Aformat(jpeg)%3Amode_rgb()%3Aquality(90)%2Fdiscogs-images%2FR-1885000-1425753863-6871.jpeg.jpg&f=1&nofb=1&ipt=48807377642d08a74645239c652ef30588ca274ebe0ca215c52c816d5c63afb4",
+      rym: "https://rateyourmusic.com/release/ep/enslaved/hordanes-land/",
+      artist: "Enslaved",
+      album: "Hordanes Land",
+    },
+  ],
+  "2025-04-15": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.stereogum.com%2Fuploads%2F2016%2F10%2Fbonitogenerationartwork-1476414447-640x640.jpg&f=1&nofb=1&ipt=5ecf45b368eece944c38ecf7918f38702804b8a3afb84f129a234d9c63a35e52odal",
+      rym: "https://rateyourmusic.com/release/album/kero-kero-bonito/bonito-generation/",
+      artist: "Kero Kero Bonito",
+      album: "Bonito Generation",
+    },
+  ],
+  "2025-04-16": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ff4.bcbits.com%2Fimg%2Fa4283829553_9.jpg&f=1&nofb=1&ipt=152c7932ca341a9198449dd01cbd23fb948eedf2327414614d6e3101f8f9cc28",
+      rym: "https://rateyourmusic.com/release/ep/serpent-column/endless-detainment/",
+      artist: "Serpent Column",
+      album: "Endless Detainment",
+    },
+  ],
+  "2025-04-17": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.discogs.com%2FXUPGDdaSHvAPRRRL_vPcOprKKgI%3D%2Ffit-in%2F500x500%2Ffilters%3Astrip_icc()%3Aformat(jpeg)%3Amode_rgb()%3Aquality(90)%2Fdiscogs-images%2FR-5439544-1393392986-1042.jpeg.jpg&f=1&nofb=1&ipt=fef52f203ca14c8eb4a8d8ff2db2ccf450dbdcecc5c8dd4e0b392fb5668cda2e",
+      rym: "https://rateyourmusic.com/release/album/soul-scream/the-deep/",
+      artist: "Soul Scream",
+      album: 'The "Deep"',
+    },
+  ],
+  "2025-04-18": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FMusic211%2Fv4%2F15%2Fed%2F41%2F15ed41fe-0909-94e7-634e-e2e5f12e26e5%2F196872645101.jpg%2F1200x1200bf-60.jpg&f=1&nofb=1&ipt=7d588dc5d72a69533933ea434f833a6d90352b0edc77c5453287e98a7322f1bb",
+      rym: "https://rateyourmusic.com/release/ep/maruja/tir-na-nog/",
+      artist: "Maruja",
+      album: "Tír na nÓg ",
+    },
+  ],
 };
 
 // {
