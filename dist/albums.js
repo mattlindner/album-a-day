@@ -990,6 +990,60 @@ const albums = {
       album: "Tír na nÓg ",
     },
   ],
+  "2025-04-19": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.genius.com%2F0c661320ce2df1933b32273e279e8eaa.640x640x1.jpg&f=1&nofb=1&ipt=d8542eb2e14d7922181b0a21775f9ec310bea7cda6889e2fa95a1fa24f3c3d99",
+      rym: "https://rateyourmusic.com/release/ep/kero-kero-bonito/civilisation-i/",
+      artist: "Kero Kero Bonito",
+      album: "Civilisation I",
+    },
+  ],
+  "2025-04-20": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.discogs.com%2Fs6P93lX9ypp-oN0ZM4ROFDyU23w%3D%2Ffit-in%2F600x600%2Ffilters%3Astrip_icc()%3Aformat(jpeg)%3Amode_rgb()%3Aquality(90)%2Fdiscogs-images%2FR-12938604-1544930142-6976.jpeg.jpg&f=1&nofb=1&ipt=e674ca60bf0b60a3d9e2267a50e64ce78e03851896e2f92332f3f31f501b648f",
+      rym: "https://rateyourmusic.com/release/ep/kero-kero-bonito/totep/",
+      artist: "Kero Kero Bonito",
+      album: "TOTEP",
+    },
+  ],
+  "2025-04-21": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fprodimage.images-bn.com%2Fpimages%2F0196006818425_p0_v1_s1200x630.jpg&f=1&nofb=1&ipt=659b734058ec16ab98ff1ac2aa9ef34c409b312e30470d577204a9e99ad75487",
+      rym: "https://rateyourmusic.com/release/album/magdalena-bay/mercurial-world/",
+      artist: "Magdalena Bay",
+      album: "Mercurial World",
+    },
+  ],
+  "2025-04-22": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fakamai.sscdn.co%2Fuploadfile%2Fletras%2Falbuns%2F2%2Fd%2F2%2F5%2F570281490621604.jpg&f=1&nofb=1&ipt=5c25568ca6057e518a4ee4288a072244753fc16fd31653f7f7dea3a1bc2f046a",
+      rym: "https://rateyourmusic.com/release/album/death-angel/the-ultra-violence/",
+      artist: "Death Angel",
+      album: "The Ultra-Violence",
+    },
+  ],
+  "2025-04-23": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.strobelight-shop.com%2Fout%2Fpictures%2Fmaster%2Fproduct%2F1%2Fgang_of_four-entertainment.jpg&f=1&nofb=1&ipt=669a677072ec210eb59971c1dab326de48bb186c0730d5da94a45999a9958a56",
+      rym: "https://rateyourmusic.com/release/album/gang-of-four/entertainment/",
+      artist: "Gang of Four",
+      album: "Entertainment!",
+    },
+  ],
+  "2025-04-24": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ff4.bcbits.com%2Fimg%2Fa2195043558_10.jpg&f=1&nofb=1&ipt=41f297b02f0b031d9d797e8f448764d2d985f5733b6e2b59bf031fd053c646af",
+      rym: "https://rateyourmusic.com/release/ep/mgla/presence/",
+      artist: "Mgła",
+      album: "Presence",
+    },
+  ],
 };
 
 // {
