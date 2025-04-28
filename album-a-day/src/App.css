@@ -1,0 +1,168 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;800&display=swap");
+
+body {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  font-family: "Poppins", serif;
+  background: #eeaeca;
+  background: radial-gradient(circle, #eeaeca 0%, #94bbe9 100%);
+  color: black;
+}
+
+h1 {
+  text-align: center;
+  font-weight: 800;
+  margin: 1rem 0 0;
+}
+
+ul {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  flex-wrap: wrap;
+  list-style: none;
+  padding-inline-start: 0;
+}
+
+ul > li:nth-child(-n + 7) {
+  background: none;
+  height: 1rem;
+  align-items: center;
+  padding: 0;
+  box-shadow: none;
+  border: 0;
+}
+
+ul li {
+  position: relative;
+  display: flex;
+  width: 10rem;
+  height: 10rem;
+  margin: 0.25rem;
+  flex-flow: column;
+  border-radius: 0.2rem;
+  padding: 1rem;
+  font-weight: 300;
+  font-size: 0.8rem;
+  box-sizing: border-box;
+  background: rgba(255, 255, 255, 0.25);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+ul li img {
+  position: absolute;
+  width: 80%;
+}
+
+ul li time {
+  z-index: 999;
+  font-size: 2rem;
+  margin: 0 0 1rem 0;
+  font-weight: 500;
+  position: absolute;
+  color: white;
+  text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.75);
+}
+ul .today {
+  background: #ffffff70;
+}
+ul .today time {
+  font-weight: 800;
+}
+
+.modal {
+  position: fixed;
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Background overlay */
+  align-content: center;
+}
+
+.modal-content {
+  position: relative;
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 1) 2%,
+    rgba(231, 251, 255, 1) 43%
+  );
+  margin: 2rem auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
+  max-width: 600px;
+  height: 80%;
+  height: -webkit-fill-available;
+  max-height: fit-content;
+  border-radius: 0.5rem;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  overflow-y: auto;
+  color: black;
+}
+
+.modal-content h1 {
+  margin: 0;
+}
+
+.modal-content hr {
+  border: none;
+  background: radial-gradient(circle, #eeaeca 0%, #94bbe9 100%);
+  height: 2px;
+  width: 50%;
+}
+
+.album {
+  display: flex; /* Create a row with an image and text */
+  gap: 20px; /* Space between image and text */
+  align-items: center;
+  margin: 2rem 0;
+}
+
+.album img {
+  width: 25%;
+  height: auto;
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+}
+
+.album .info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex: 1; /* Make text take available space */
+  font-size: 1.17em;
+  font-weight: lighter;
+}
+
+.info .big {
+  font-weight: bold;
+}
+
+.modal-close {
+  color: #aaa;
+  font-size: 28px;
+  font-weight: bold;
+  position: absolute;
+  top: 10px;
+  right: 25px;
+  cursor: pointer;
+}
+
+.modal-close:hover,
+.modal-close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* Style for the modal text */
+#modal-text {
+  font-size: 14px;
+  color: #333;
+}
