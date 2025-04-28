@@ -2,14 +2,25 @@ import { useMemo, useState } from 'react'
 import './App.css'
 import albums, { Album } from './albums';
 
-const Popup = ({ title, albums, closeModal }) => {
+const Popup = ({ title, albums, closeModal }: {title: string, albums: Album[], closeModal: () => void}) => {
+  window.onclick = function (event) {
+    if (event.target === document.getElementById("modal")) {
+      closeModal();
+    }
+  };
+
+  window.onkeydown = function ({ key }) {
+    if (key === "Escape") {
+      closeModal();
+    }
+  }
+
   return (
-    <div className="modal">
+    <div className="modal" id="modal">
       <div className="modal-content">
         <span className="modal-close" onClick={closeModal}>x</span>
         <h1>{title}</h1>
         <div className="albums">
-          {console.log({albums})}
           {albums.map((album, index) => (
             <>
               {index > 0 ? <hr /> : null}
