@@ -1044,6 +1044,33 @@ const albums = {
       album: "Presence",
     },
   ],
+  "2025-04-25": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.aftermath-music.com%2Fcdn%2Fshop%2Fproducts%2Fvedbuensende_thosewhocaressLP_1200x1200.jpg%3Fv%3D1668014461&f=1&nofb=1&ipt=81d8368d53de9951fc99c5c7da076024eed3db2beb0ebfca589022ab538572d3",
+      rym: "https://rateyourmusic.com/release/ep/ved-buens-ende/those-who-caress-the-pale/",
+      artist: "Ved Buens Ende.....",
+      album: "Those Who Caress the Pale",
+    },
+  ],
+  "2025-04-26": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.music-bazaar.com%2Falbum-images%2Fvol2%2F125%2F125274%2F692987-big%2FSAP-cover.jpg&f=1&nofb=1&ipt=35300a74af888692972c42b8eddcfba8e2e9599590b4b87ace976a2dc21055a4",
+      rym: "https://rateyourmusic.com/release/ep/alice-in-chains/sap/",
+      artist: "Alice in Chains",
+      album: "Sap",
+    },
+  ],
+  "2025-04-27": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.genius.com%2Fd8802ea3ec54e6bc89abf20b10f354ad.1000x1000x1.jpg&f=1&nofb=1&ipt=50ca224fb39ac895f6cb0ea03467353e1ad430b0ae378b564477c490164b461b",
+      rym: "https://rateyourmusic.com/release/album/pavement/brighten-the-corners/",
+      artist: "Pavement",
+      album: "Brighten the Corners",
+    },
+  ],
 };
 
 // {
