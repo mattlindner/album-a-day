@@ -1071,6 +1071,15 @@ const albums = {
       album: "Brighten the Corners",
     },
   ],
+  "2025-04-28": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffthmb.tqn.com%2FQV0KgJ-m3KelYFQYbQOjhnHLyuU%3D%2F768x0%2Ffilters%3Ano_upscale()%2Fenslaved-vikingligr-58b97f8c3df78c353cde2e65.jpg&f=1&nofb=1&ipt=58ffa6503559ebc0e275c55d7fc39173aa94a1f6a873a096f3e40007efbc7806",
+      rym: "https://rateyourmusic.com/release/album/enslaved/vikingligr-veldi/",
+      artist: "Enslaved",
+      album: "Vikingligr Veldi",
+    },
+  ],
 };
 
 // {
