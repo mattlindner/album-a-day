@@ -1,21 +1,15 @@
 import {Album} from "../albums"
 import './Day.css'
 
-
 const Day = ({ day, openModal }: {day?: {
   day: number;
   dateTimeString: string;
+  isToday: boolean,
   albums: Album[];
 }, openModal: (title: string, albums: Album[]) => void}) => {
   if (!day) return <li/>;
 
-  const { day: dayNumber, dateTimeString, albums = [] } = day;
-  const today = new Date();
-  const isToday =
-	today.getDate() === dayNumber &&
-	today.getMonth() === new Date(dateTimeString).getMonth() &&
-	today.getFullYear() === new Date(dateTimeString).getFullYear();
-
+  const { day: dayNumber, dateTimeString, isToday, albums = [] } = day;
 
 	const sortedAlbums = albums.map(album => ({album, sort: Math.random()})).sort((a, b) => a.sort - b.sort)
 	return (

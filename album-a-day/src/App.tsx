@@ -5,8 +5,13 @@ import Popup from './Popup/Popup';
 import Calendar from './Calendar/Calendar';
 
 const App = () => {
-  const today = useMemo(() => new Date(), [])
-  const months = useMemo(() => [...Array(today.getMonth() + 1).keys()], [today])
+  const {todayDateString, months} = useMemo(() => {
+    const today = new Date()
+    const todayDateString = today.toJSON().split("T")[0]
+    const months = [...Array(today.getMonth() + 1).keys()]
+
+    return {todayDateString, months}
+  }, [])
 
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [modalTitle, setModalTitle] = useState("");
@@ -26,7 +31,7 @@ const App = () => {
 
   return (
     <div>
-      {months.map((mIndex) => <Calendar year={2025} monthIndex={mIndex} openModal={openModal}/> )}
+      {months.map((mIndex) => <Calendar year={2025} monthIndex={mIndex} today={todayDateString} openModal={openModal}/> )}
       {isModalOpen && <Popup title={modalTitle} albums={modalAlbums} closeModal={closeModal} />}
     </div>
   );

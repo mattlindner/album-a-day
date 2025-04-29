@@ -19,7 +19,7 @@ const monthNames = [
 
 const dayNames = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"]
 
-const Calendar = ({year, monthIndex, openModal}: {year: number, monthIndex: number, openModal: (title: string, albums: Album[]) => void}) => {
+const Calendar = ({year, monthIndex, today, openModal}: {year: number, monthIndex: number, today: string, openModal: (title: string, albums: Album[]) => void}) => {
 	const daysInMonth = new Date(year, monthIndex + 1, 0).getDate();
 	const firstDayOfMonth = new Date(year, monthIndex, 1).getDay(); // Get the first day of the month (0 = Sunday, 1 = Monday, etc.)
 
@@ -32,7 +32,7 @@ const Calendar = ({year, monthIndex, openModal}: {year: number, monthIndex: numb
 	  const dateTimeString = `${year}-${(monthIndex + 1)
 	  .toString()
 	  .padStart(2, "0")}-${day.toString().padStart(2, "0")}`;
-	  days.push({ day, dateTimeString, albums: albums[dateTimeString] })
+	  days.push({ day, dateTimeString, isToday: dateTimeString === today, albums: albums[dateTimeString] })
 	}
 
 	return (
