@@ -25,7 +25,7 @@ const App = () => {
   };
 
   return (
-    <div className="app">
+    <div>
       {months.map((mIndex) => <Calendar year={2025} monthIndex={mIndex} openModal={openModal}/> )}
       {isModalOpen && <Popup title={modalTitle} albums={modalAlbums} closeModal={closeModal} />}
     </div>

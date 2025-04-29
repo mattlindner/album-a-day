@@ -1,5 +1,6 @@
 import albums, { Album } from '../albums';
 import Day from '../Day/Day';
+import './Calendar.css'
 
 const monthNames = [
 	"January",
@@ -35,7 +36,7 @@ const Calendar = ({year, monthIndex, openModal}: {year: number, monthIndex: numb
 	}
 
 	return (
-	  <div className="calendar">
+	  <div>
 		<h1 onClick={() => openModal(monthNames[monthIndex], Object.keys(albums)
 		.filter((date) =>
 		  date.includes(`${year}-${(monthIndex + 1).toString().padStart(2, "0")}`)

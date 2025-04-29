@@ -1,4 +1,6 @@
 import {Album} from "../albums"
+import './Day.css'
+
 
 const Day = ({ day, openModal }: {day?: {
   day: number;

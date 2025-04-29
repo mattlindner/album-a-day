@@ -1,5 +1,6 @@
 import { useEffect } from "react";
 import {Album} from "../albums"
+import './Popup.css'
 
 const Popup = ({ title, albums, closeModal }: {title: string, albums: Album[], closeModal: () => void}) => {
 	useEffect(() => {
