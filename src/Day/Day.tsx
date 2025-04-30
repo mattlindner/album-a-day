@@ -1,3 +1,4 @@
+import { useMemo } from "react"
 import { Album } from "../albums"
 import "./Day.css"
 
@@ -7,8 +8,8 @@ const Day = ({ day, openModal }: DayProps) => {
 	if (!day) return <li />
 
 	const { day: dayNumber, dateTimeString, isToday, albums = [] } = day
+	const sortedAlbums = useMemo(() => albums.map(album => ({ album, sort: Math.random() })).sort((a, b) => a.sort - b.sort), [])
 
-	const sortedAlbums = albums.map(album => ({ album, sort: Math.random() })).sort((a, b) => a.sort - b.sort)
 	return (
 		<li className={`day ${isToday ? "today" : ""}`}>
 			<time dateTime={dateTimeString}>{dayNumber}</time>
