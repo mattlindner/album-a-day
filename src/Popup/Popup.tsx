@@ -2,7 +2,13 @@ import { useEffect } from "react"
 import { Album } from "../albums"
 import "./Popup.css"
 
-const Popup = ({ title, albums, closeModal }: { title: string, albums: Album[], closeModal: () => void }) => {
+type PopupProps = {
+	title: string
+	albums: Album[]
+	closeModal: () => void
+}
+
+const Popup = ({ title, albums, closeModal }: PopupProps) => {
 	useEffect(() => {
 		const onClick = (event: MouseEvent) => {
 			if (event.target === document.getElementById("modal")) {
