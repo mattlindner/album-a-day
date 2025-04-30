@@ -1080,6 +1080,15 @@ const albums = {
       album: "Vikingligr Veldi",
     },
   ],
+  "2025-04-29": [
+    {
+      image:
+        "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.angrymetalguy.com%2Fwp-content%2Fuploads%2F2010%2F09%2FEnslaved-Axioma-Ethica-Odini-Cover.jpg&f=1&nofb=1&ipt=7a3fea200c0f6f6120735b166de85bd0064ffc5bc2d0d7202ad77f88bd3f1fdc",
+      rym: "https://rateyourmusic.com/release/album/enslaved/axioma-ethica-odini/",
+      artist: "Enslaved",
+      album: "Axioma Ethica Odini",
+    },
+  // ],
 };
 
 // {
