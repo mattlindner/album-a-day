@@ -29,9 +29,11 @@ const App = () => {
 		setModalAlbums([])
 	}
 
+	const calendars = useMemo(() => months.map(mIndex => <Calendar year={2025} monthIndex={mIndex} today={todayDateString} openModal={openModal} key={`calendar-${mIndex}`} />), [])
+
 	return (
 		<div>
-			{months.map(mIndex => <Calendar year={2025} monthIndex={mIndex} today={todayDateString} openModal={openModal} key={`calendar-${mIndex}`} />)}
+			{calendars}
 			<Popup title={modalTitle} albums={modalAlbums} open={isModalOpen} closeModal={closeModal} />
 		</div>
 	)

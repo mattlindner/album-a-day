@@ -29,6 +29,11 @@ type CalendarProps = {
 const Calendar = ({ year, monthIndex, today, openModal }: CalendarProps) => {
 	const daysInMonth = new Date(year, monthIndex + 1, 0).getDate()
 	const firstDayOfMonth = new Date(year, monthIndex, 1).getDay() // Get the first day of the month (0 = Sunday, 1 = Monday, etc.)
+	const albumsForMonth = Object.keys(albums)
+		.filter(date =>
+			date.includes(`${year}-${(monthIndex + 1).toString().padStart(2, "0")}`),
+		)
+		.flatMap(k => albums[k])
 
 	const days = []
 	for (let i = 0; i < firstDayOfMonth; i++) {
@@ -42,15 +47,9 @@ const Calendar = ({ year, monthIndex, today, openModal }: CalendarProps) => {
 		days.push({ day, dateTimeString, isToday: dateTimeString === today, albums: albums[dateTimeString] })
 	}
 
-	const getAlbumsForMonth = () => Object.keys(albums)
-		.filter(date =>
-			date.includes(`${year}-${(monthIndex + 1).toString().padStart(2, "0")}`),
-		)
-		.flatMap(k => albums[k])
-
 	return (
 		<div>
-			<h1 onClick={() => openModal(monthNames[monthIndex], getAlbumsForMonth())}>
+			<h1 onClick={() => openModal(monthNames[monthIndex], albumsForMonth)}>
 				{monthNames[monthIndex]}
 			</h1>
 			<ul>
