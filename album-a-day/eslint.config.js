@@ -20,6 +20,11 @@ export default defineConfig([
   {
     files: ["**/*.{jsx,tsx}"],
     ...pluginReact.configs.flat.recommended,
+    settings: {
+      react: {
+        version: "detect",
+      },
+    },
   },
   {
     files: ["**/*.{jsx,tsx}"],
