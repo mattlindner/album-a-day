@@ -8,17 +8,20 @@ import { defineConfig } from "eslint/config";
 
 export default defineConfig([
   {
-    files: ["**/*.{ts,tsx}"],
+    files: ["src/**/*.{ts,tsx}"],
     plugins: { js },
     extends: ["js/recommended"],
   },
   {
-    files: ["**/*.{ts,tsx}"],
+    files: ["src/**/*.{ts,tsx}"],
     languageOptions: { globals: globals.browser },
   },
-  tseslint.configs.recommended,
+  tseslint.config({
+    files: ["src/**/*.{ts,tsx}"],
+    extends: [tseslint.configs.recommended],
+  }),
   {
-    files: ["**/*.{jsx,tsx}"],
+    files: ["src/**/*.{jsx,tsx}"],
     ...pluginReact.configs.flat.recommended,
     settings: {
       react: {
@@ -27,17 +30,17 @@ export default defineConfig([
     },
   },
   {
-    files: ["**/*.{jsx,tsx}"],
+    files: ["src/**/*.{jsx,tsx}"],
     ...pluginReact.configs.flat["jsx-runtime"],
   },
   {
-    files: ["**/*.css"],
+    files: ["src/**/*.css"],
     plugins: { css },
     language: "css/css",
     extends: ["css/recommended"],
   },
   {
-    files: ["**/*.{ts,tsx}"],
+    files: ["src/**/*.{ts,tsx}"],
     ...stylistic.configs.customize({
       indent: "tab",
       quotes: "double",
