@@ -10,6 +10,13 @@ const Day = ({ day, openModal }: DayProps) => {
 	const { day: dayNumber, dateTimeString, isToday, albums = [] } = day
 	const sortedAlbums = useMemo(() => albums.map(album => ({ album, sort: Math.random() })).sort((a, b) => a.sort - b.sort), [])
 
+	const transform = (i: number) => {
+		const isOddIndex = i % 2 !== 0
+		const sign = isOddIndex ? (dayNumber % 2 === 0 ? "-" : "+") : ""
+		const angle = (i * 11) % 30
+		return `rotate(${sign}${angle}deg)`
+	}
+
 	return (
 		<li className={`day ${isToday ? "today" : ""}`}>
 			<time dateTime={dateTimeString}>{dayNumber}</time>
@@ -20,9 +27,7 @@ const Day = ({ day, openModal }: DayProps) => {
 					alt="Album artwork"
 					onClick={() => openModal(dateTimeString, albums)}
 					style={{
-						transform: `rotate(${
-							i % 2 !== 0 && dayNumber % 2 === 0 ? "-" : i % 2 !== 0 ? "+" : ""
-						}${(i * 11) % 30}deg)`,
+						transform: transform(i),
 						zIndex: i + 1,
 					}}
 				/>
