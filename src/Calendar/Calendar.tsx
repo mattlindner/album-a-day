@@ -42,14 +42,15 @@ const Calendar = ({ year, monthIndex, today, openModal }: CalendarProps) => {
 		days.push({ day, dateTimeString, isToday: dateTimeString === today, albums: albums[dateTimeString] })
 	}
 
+	const getAlbumsForMonth = () => Object.keys(albums)
+		.filter(date =>
+			date.includes(`${year}-${(monthIndex + 1).toString().padStart(2, "0")}`),
+		)
+		.flatMap(k => albums[k])
+
 	return (
 		<div>
-			<h1 onClick={() => openModal(monthNames[monthIndex], Object.keys(albums)
-				.filter(date =>
-					date.includes(`${year}-${(monthIndex + 1).toString().padStart(2, "0")}`),
-				)
-				.flatMap(k => albums[k]))}
-			>
+			<h1 onClick={() => openModal(monthNames[monthIndex], getAlbumsForMonth())}>
 				{monthNames[monthIndex]}
 			</h1>
 			<ul>
