@@ -38,7 +38,6 @@ export default defineConfig([
   },
   {
     files: ["**/*.{ts,tsx}"],
-    // ...stylistic.configs.recommended,
     ...stylistic.configs.customize({
       indent: "tab",
       quotes: "double",
