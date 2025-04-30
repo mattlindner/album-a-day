@@ -32,7 +32,7 @@ const App = () => {
 	return (
 		<div>
 			{months.map(mIndex => <Calendar year={2025} monthIndex={mIndex} today={todayDateString} openModal={openModal} key={`calendar-${mIndex}`} />)}
-			{isModalOpen && <Popup title={modalTitle} albums={modalAlbums} closeModal={closeModal} />}
+			<Popup title={modalTitle} albums={modalAlbums} open={isModalOpen} closeModal={closeModal} />
 		</div>
 	)
 }

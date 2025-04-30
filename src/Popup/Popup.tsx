@@ -5,10 +5,13 @@ import "./Popup.css"
 type PopupProps = {
 	title: string
 	albums: Album[]
+	open: boolean
 	closeModal: () => void
 }
 
-const Popup = ({ title, albums, closeModal }: PopupProps) => {
+const Popup = ({ title, albums, open, closeModal }: PopupProps) => {
+	if (!open) return null
+
 	useEffect(() => {
 		const onClick = (event: MouseEvent) => {
 			if (event.target === document.getElementById("modal")) {
