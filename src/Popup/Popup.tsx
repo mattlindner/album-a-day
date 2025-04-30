@@ -37,7 +37,7 @@ const Popup = ({ title, albums, closeModal }: PopupProps) => {
 				<h1>{title}</h1>
 				<div className="albums">
 					{albums.map((album, index) => (
-						<>
+						<div key={`popup-${index}`}>
 							{index > 0 ? <hr /> : null}
 							<div key={index} className="album">
 								<img
@@ -56,7 +56,7 @@ const Popup = ({ title, albums, closeModal }: PopupProps) => {
 									</div>
 								</div>
 							</div>
-						</>
+						</div>
 					))}
 				</div>
 			</div>
