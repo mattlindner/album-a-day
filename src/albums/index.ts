@@ -1,5 +1,5 @@
 export type Album = {
-	image: string
+	image: URL | string
 	rym: string
 	artist: string
 	album: string
@@ -8,8 +8,7 @@ export type Album = {
 const albums: Record<string, Album[]> = {
 	"2025-01-01": [
 		{
-			image:
-        "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.genius.com%2F0853e27a7878c0485f0031ff97921bb6.800x800x1.jpg&f=1&nofb=1&ipt=954b21f5237520c5ab4d1598f5610f77f93f372392384fd394a32f86cdd96408&ipo=images",
+			image: "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.genius.com%2F0853e27a7878c0485f0031ff97921bb6.800x800x1.jpg&f=1&nofb=1&ipt=954b21f5237520c5ab4d1598f5610f77f93f372392384fd394a32f86cdd96408&ipo=images",
 			rym: "https://rateyourmusic.com/release/album/racionais-mcs/sobrevivendo-no-inferno/",
 			artist: "Racionais MC's",
 			album: "Sobrevivendo no inferno",
