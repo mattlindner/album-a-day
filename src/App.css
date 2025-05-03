@@ -5,7 +5,7 @@ body {
   flex-flow: column;
   align-items: center;
   font-family: "Poppins", serif;
-  background: #eeaeca;
-  background: radial-gradient(circle, #eeaeca 0%, #94bbe9 100%);
+  background: radial-gradient(circle at center, #eeaeca, #94bbe9);
+  will-change: background;
   color: black;
 }
