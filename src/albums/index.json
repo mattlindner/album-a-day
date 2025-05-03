@@ -968,5 +968,29 @@
             "artist": "Enslaved",
             "album": "Axioma Ethica Odini"
         }
+    ],
+    "2025-04-30": [
+        {
+            "image": "viagr-aboys_viagra-boys.jpg",
+            "rym": "https://rateyourmusic.com/release/album/viagra-boys/viagr-aboys/",
+            "artist": "Viagra Boys",
+            "album": "viagr aboys"
+        }
+    ],
+    "2025-05-01": [
+        {
+            "image": "for-kunsten-maa-vi-evig-vike_kvist.jpg",
+            "rym": "https://rateyourmusic.com/release/album/kvist/for-kunsten-maa-vi-evig-vike/",
+            "artist": "Kvist",
+            "album": "For Kunsten Maa Vi Evig Vike"
+        }
+    ],
+    "2025-05-02": [
+        {
+            "image": "motherfucker,-i-am-both:-\"amen\"-and-\"hallelujah\"_shearling.jpg",
+            "rym": "https://rateyourmusic.com/release/album/shearling/motherfucker-i-am-both-amen-and-hallelujah/",
+            "artist": "Shearling",
+            "album": "Motherfucker, I Am Both: \"Amen\" and \"Hallelujah\"..."
+        }
     ]
 }
