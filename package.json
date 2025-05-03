@@ -7,8 +7,7 @@
     "build": "tsc -b && vite build",
     "preview": "vite preview",
     "lint": "eslint . --fix",
-    "add": "tsx ./addAlbum",
-    "convert": "tsx ./convert"
+    "add": "tsx ./addAlbum"
   },
   "dependencies": {
     "react": "~19.0.0",
