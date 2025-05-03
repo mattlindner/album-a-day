@@ -51,7 +51,7 @@ const imageUrl = await input({
 const imageBuffer = await agent.get(imageUrl).buffer(true).parse(agent.parse.image).then(r=> r.body)
 
 const filename = `${toKebabCase(album)}_${toKebabCase(artist)}.jpg`
-await sharp(imageBuffer).resize(200,200).jpeg({ quality: 80 }).toFile(`./public/${filename}`)
+await sharp(imageBuffer).resize(500,500).jpeg({ quality: 80 }).toFile(`./public/${filename}`)
 
 const newAlbumData = albums
 newAlbumData[today] = [{image: filename, rym, artist, album}]
