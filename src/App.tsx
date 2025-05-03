@@ -1,8 +1,8 @@
 import { useMemo, useState } from "react"
 import "./App.css"
-import { Album } from "./albums"
 import Popup from "./Popup/Popup"
 import Calendar from "./Calendar/Calendar"
+import { Album } from "./albums"
 
 const App = () => {
 	const { todayDateString, months } = useMemo(() => {

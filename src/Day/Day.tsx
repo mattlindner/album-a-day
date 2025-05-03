@@ -23,7 +23,7 @@ const Day = ({ day, openModal }: DayProps) => {
 			{sortedAlbums.map(({ album }, i) => (
 				<img
 					key={i}
-					src={album.image}
+					src={`/album-a-day/${album.image}`}
 					alt="Album artwork"
 					onClick={() => openModal(dateTimeString, albums)}
 					style={{

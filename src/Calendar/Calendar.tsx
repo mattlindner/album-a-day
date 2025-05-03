@@ -1,5 +1,5 @@
-import albums, { Album } from "../albums"
 import Day from "../Day/Day"
+import albums, { Album } from "../albums"
 import "./Calendar.css"
 
 const monthNames = [
