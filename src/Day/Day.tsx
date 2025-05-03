@@ -5,7 +5,7 @@ import "./Day.css"
 type DayProps = { day?: { day: number, dateTimeString: string, isToday: boolean, albums: Album[] }, openModal: (title: string, albums: Album[]) => void }
 
 const Day = ({ day, openModal }: DayProps) => {
-	if (!day) return <li />
+	if (!day) return <li className="empty-day" />
 
 	const { day: dayNumber, dateTimeString, isToday, albums = [] } = day
 	const sortedAlbums = useMemo(() => albums.map(album => ({ album, sort: Math.random() })).sort((a, b) => a.sort - b.sort), [])
@@ -17,6 +17,7 @@ const Day = ({ day, openModal }: DayProps) => {
 		return `rotate(${sign}${angle}deg)`
 	}
 
+	// MATT TODO :- check for future days ,add empty-day class for mobile
 	return (
 		<li className={`day ${isToday ? "today" : ""}`}>
 			<time dateTime={dateTimeString}>{dayNumber}</time>
@@ -32,6 +33,16 @@ const Day = ({ day, openModal }: DayProps) => {
 					}}
 				/>
 			))}
+			<div className="info">
+				<div>
+					Album:
+					<span className="big">{sortedAlbums[0]?.album.album}</span>
+				</div>
+				<div>
+					Artist:
+					<span className="big">{sortedAlbums[0]?.album.artist}</span>
+				</div>
+			</div>
 		</li>
 	)
 }

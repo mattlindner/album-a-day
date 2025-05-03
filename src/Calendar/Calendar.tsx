@@ -54,7 +54,7 @@ const Calendar = ({ year, monthIndex, today, openModal }: CalendarProps) => {
 			</h1>
 			<ul>
 				{dayNames.map((day, i) => (
-					<li key={i}>{day}</li>
+					<li className="day-name" key={i}>{day}</li>
 				))}
 				{days.map((day, index) => (
 					<Day key={index} day={day} openModal={openModal} />
