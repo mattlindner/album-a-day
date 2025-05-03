@@ -41,6 +41,11 @@ ul li time {
   color: white;
   text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.75);
 }
+
+.info {
+  display: none;
+}
+
 ul .today {
   background: #ffffff70;
 }
@@ -55,6 +60,10 @@ ul .today time {
     max-width: 100%;
   }
 
+  ul li time {
+    position: relative;
+  }
+
   .empty-day {
     display: none;
   }
@@ -67,6 +76,11 @@ ul .today time {
   .info {
     font-size: x-large;
     align-self: center;
+    display: block;
+  }
+
+  ul .isFutureDate {
+    display: none;
   }
 
   ul li img {

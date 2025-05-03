@@ -44,7 +44,10 @@ const Calendar = ({ year, monthIndex, today, openModal }: CalendarProps) => {
 		const dateTimeString = `${year}-${(monthIndex + 1)
 			.toString()
 			.padStart(2, "0")}-${day.toString().padStart(2, "0")}`
-		days.push({ day, dateTimeString, isToday: dateTimeString === today, albums: albums[dateTimeString] })
+
+		const isToday = dateTimeString === today
+		const isFutureDate = dateTimeString > today
+		days.push({ day, dateTimeString, isToday, isFutureDate, albums: albums[dateTimeString] })
 	}
 
 	return (

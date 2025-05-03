@@ -2,12 +2,12 @@ import { useMemo } from "react"
 import { Album } from "../albums"
 import "./Day.css"
 
-type DayProps = { day?: { day: number, dateTimeString: string, isToday: boolean, albums: Album[] }, openModal: (title: string, albums: Album[]) => void }
+type DayProps = { day?: { day: number, dateTimeString: string, isToday: boolean, isFutureDate: boolean, albums: Album[] }, openModal: (title: string, albums: Album[]) => void }
 
 const Day = ({ day, openModal }: DayProps) => {
 	if (!day) return <li className="empty-day" />
 
-	const { day: dayNumber, dateTimeString, isToday, albums = [] } = day
+	const { day: dayNumber, dateTimeString, isToday, isFutureDate, albums = [] } = day
 	const sortedAlbums = useMemo(() => albums.map(album => ({ album, sort: Math.random() })).sort((a, b) => a.sort - b.sort), [])
 
 	const transform = (i: number) => {
@@ -17,9 +17,8 @@ const Day = ({ day, openModal }: DayProps) => {
 		return `rotate(${sign}${angle}deg)`
 	}
 
-	// MATT TODO :- check for future days ,add empty-day class for mobile
 	return (
-		<li className={`day ${isToday ? "today" : ""}`}>
+		<li className={`day ${isToday ? "today" : ""} ${isFutureDate ? "isFutureDate" : ""}`}>
 			<time dateTime={dateTimeString}>{dayNumber}</time>
 			{sortedAlbums.map(({ album }, i) => (
 				<img
