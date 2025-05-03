@@ -3,14 +3,13 @@ import fs from "fs/promises"
 import sharp from "sharp"
 import agent from "superagent"
 import albums from "./src/albums"
+import deburr from "lodash.deburr"
 
 function toKebabCase(str: string): string {
-	return str.toLowerCase().replace(/ /g, "-")
+	return deburr(str).toLowerCase().trim().replace(/ /g, "-").replace(/[.]/g, "")
 }
 
-// Read the existing albums data
-
-// MATT TODO :- this will sometimes make it "tommorrow"
+// MATT TODO :- this will sometimes make it "tomorrow"
 const today = new Date().toISOString().split("T")[0]
 const urlRegex = /^(https?):\/\/[^\s/$.?#].[^\s]*$/i
 const toTitleCase = (s: string) =>
@@ -51,5 +50,10 @@ const imageUrl = await input({
 
 const imageBuffer = await agent.get(imageUrl).buffer(true).parse(agent.parse.image).then(r=> r.body)
 
-const filePath = `./src/albums/images/${toKebabCase(album)}_${toKebabCase(artist)}.jpg`
-await sharp(imageBuffer).resize(200,200).jpeg({ quality: 80 }).toFile(filePath)
+const filename = `${toKebabCase(album)}_${toKebabCase(artist)}.jpg`
+await sharp(imageBuffer).resize(200,200).jpeg({ quality: 80 }).toFile(`./public/${filename}`)
+
+const newAlbumData = albums
+newAlbumData[today] = [{image: filename, rym, artist, album}]
+
+await fs.writeFile('./src/albums/index.json', JSON.stringify(newAlbumData, null, 4))
