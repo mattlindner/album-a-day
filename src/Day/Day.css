@@ -61,6 +61,7 @@ ul .today time {
   }
 
   ul li time {
+    width: 2rem;
     position: relative;
   }
 
