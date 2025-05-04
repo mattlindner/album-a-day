@@ -1000,5 +1000,13 @@
             "artist": "Drudkh",
             "album": "Autumn Aurora"
         }
+    ],
+    "2025-05-04": [
+        {
+            "image": "malibu-ken_malibu-ken.jpg",
+            "rym": "https://rateyourmusic.com/release/album/malibu-ken/malibu-ken/",
+            "artist": "Malibu Ken",
+            "album": "Malibu Ken"
+        }
     ]
 }
