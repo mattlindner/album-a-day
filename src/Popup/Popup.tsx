@@ -38,11 +38,11 @@ const Popup = ({ title, albums, open, closeModal }: PopupProps) => {
 			<div className="modal-content">
 				<span className="modal-close" onClick={closeModal}>x</span>
 				<h1>{title}</h1>
-				<div className="albums">
+				<div>
 					{albums.map((album, index) => (
 						<div key={`popup-${index}`}>
 							{index > 0 ? <hr /> : null}
-							<div key={index} className="album">
+							<div key={index} className="popup-album">
 								<img
 									src={album.image}
 									alt={album.album}

@@ -56,11 +56,11 @@ ul .today time {
 @media screen and (max-width: 768px) {
   ul li {
     width: 100%;
-    max-width: 100%;
+    height: fit-content;
   }
 
   ul li time {
-    width: 2rem;
+    min-width: 2rem;
     position: relative;
     align-self: center;
     text-align: center;
@@ -75,9 +75,18 @@ ul .today time {
     gap: 1rem;
   }
 
+  .albums > *:first-child:not(:only-child) {
+    margin-bottom: 1rem;
+  }
+
+  .album {
+    display: flex;
+    gap: 1rem;
+    align-items: center
+  }
+
   .info {
     font-size: x-large;
-    align-self: center;
     display: block;
   }
 
@@ -86,8 +95,8 @@ ul .today time {
   }
 
   ul li img {
-    height: 100%;
-    width: auto;
+    max-width: 25%;
     position: relative;
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
   }
 }

@@ -20,27 +20,30 @@ const Day = ({ day, openModal }: DayProps) => {
 	return (
 		<li className={`day ${isToday ? "today" : ""} ${isFutureDate ? "isFutureDate" : ""}`}>
 			<time dateTime={dateTimeString}>{dayNumber}</time>
-			{sortedAlbums.map(({ album }, i) => (
-				<img
-					key={i}
-					src={`/album-a-day/${album.image}`}
-					alt="Album artwork"
-					onClick={() => openModal(dateTimeString, albums)}
-					style={{
-						transform: transform(i),
-						zIndex: i + 1,
-					}}
-				/>
-			))}
-			<div className="info">
-				<div>
-					Album:
-					<span className="big">{sortedAlbums[0]?.album.album}</span>
-				</div>
-				<div>
-					Artist:
-					<span className="big">{sortedAlbums[0]?.album.artist}</span>
-				</div>
+			<div className="albums">
+				{sortedAlbums.map(({ album }, i) => (
+					<div className="album" key={i}>
+						<img
+							src={`/album-a-day/${album.image}`}
+							alt="Album artwork"
+							onClick={() => openModal(dateTimeString, albums)}
+							style={{
+								transform: transform(i),
+								zIndex: i + 1,
+							}}
+						/>
+						<div className="info">
+							<div>
+								Album:
+								<span className="big">{album.album}</span>
+							</div>
+							<div>
+								Artist:
+								<span className="big">{album.artist}</span>
+							</div>
+						</div>
+					</div>
+				))}
 			</div>
 		</li>
 	)
