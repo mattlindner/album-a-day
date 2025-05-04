@@ -1,6 +1,7 @@
-import { useMemo } from "react"
+import { useContext, useMemo } from "react"
 import { Album } from "../albums"
 import "./Day.css"
+import { ScreenContext } from "../util/screenContext"
 
 type DayProps = { day?: { day: number, dateTimeString: string, isToday: boolean, isFutureDate: boolean, albums: Album[] }, openModal: (title: string, albums: Album[]) => void }
 
@@ -17,6 +18,8 @@ const Day = ({ day, openModal }: DayProps) => {
 		return `rotate(${sign}${angle}deg)`
 	}
 
+	const isMobile = useContext(ScreenContext)
+
 	return (
 		<li className={`day ${isToday ? "today" : ""} ${isFutureDate ? "isFutureDate" : ""}`}>
 			<time dateTime={dateTimeString}>{dayNumber}</time>
@@ -26,11 +29,20 @@ const Day = ({ day, openModal }: DayProps) => {
 						<img
 							src={`/album-a-day/${album.image}`}
 							alt="Album artwork"
-							onClick={() => openModal(dateTimeString, albums)}
-							style={{
-								transform: transform(i),
-								zIndex: i + 1,
+							onClick={() => {
+								if (isMobile) {
+									window.open(album.rym, "_blank")
+								}
+								else {
+									openModal(dateTimeString, albums)
+								}
 							}}
+							style={!isMobile
+								? {
+										transform: transform(i),
+										zIndex: i + 1,
+									}
+								: {}}
 						/>
 						<div className="info">
 							<div>
