@@ -1008,5 +1008,21 @@
             "artist": "Malibu Ken",
             "album": "Malibu Ken"
         }
+    ],
+    "2025-05-05": [
+        {
+            "image": "aethiopes_billy-woods.jpg",
+            "rym": "https://rateyourmusic.com/release/album/billy-woods/aethiopes/",
+            "artist": "Billy Woods",
+            "album": "Aethiopes"
+        }
+    ],
+    "2025-05-06": [
+        {
+            "image": "sonoran-depravation_gatecreeper.jpg",
+            "rym": "https://rateyourmusic.com/release/album/gatecreeper/sonoran-depravation/",
+            "artist": "Gatecreeper",
+            "album": "Sonoran Depravation"
+        }
     ]
 }
