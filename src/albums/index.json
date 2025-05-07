@@ -1024,5 +1024,13 @@
             "artist": "Gatecreeper",
             "album": "Sonoran Depravation"
         }
+    ],
+    "2025-05-07": [
+        {
+            "image": "schnee_paysage-d'hiver.jpg",
+            "rym": "https://rateyourmusic.com/release/comp/paysage-dhiver/schnee/",
+            "artist": "Paysage d'Hiver",
+            "album": "Schnee"
+        }
     ]
 }
