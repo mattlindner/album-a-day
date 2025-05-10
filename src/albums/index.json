@@ -1040,5 +1040,13 @@
             "artist": "Liturgy",
             "album": "93696"
         }
+    ],
+    "2025-05-09": [
+        {
+            "image": "golliwog_billy-woods.jpg",
+            "rym": "https://rateyourmusic.com/release/album/billy-woods/golliwog/",
+            "artist": "Billy Woods",
+            "album": "Golliwog"
+        }
     ]
 }
