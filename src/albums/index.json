@@ -1048,5 +1048,13 @@
             "artist": "Billy Woods",
             "album": "Golliwog"
         }
+    ],
+    "2025-05-10": [
+        {
+            "image": "grin_coroner.jpg",
+            "rym": "https://rateyourmusic.com/release/album/coroner/grin/",
+            "artist": "Coroner",
+            "album": "Grin"
+        }
     ]
 }
