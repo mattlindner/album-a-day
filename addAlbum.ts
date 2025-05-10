@@ -9,8 +9,8 @@ function toKebabCase(str: string): string {
 	return deburr(str).toLowerCase().trim().replace(/ /g, "-").replace(/[.]/g, "")
 }
 
-// MATT TODO :- this will sometimes make it "tomorrow"
-const today = new Date().toISOString().split("T")[0]
+const today = new Date()
+const todayDateString = new Date(today.getTime() - (today.getTimezoneOffset() * 60000)).toJSON().split("T")[0]
 const urlRegex = /^(https?):\/\/[^\s/$.?#].[^\s]*$/i
 const toTitleCase = (s: string) =>
 	s
@@ -54,6 +54,6 @@ const filename = `${toKebabCase(album)}_${toKebabCase(artist)}.jpg`
 await sharp(imageBuffer).resize(500,500).jpeg({ quality: 80 }).toFile(`./public/${filename}`)
 
 const newAlbumData = albums
-newAlbumData[today] = [{image: filename, rym, artist, album}]
+newAlbumData[todayDateString] = [{image: filename, rym, artist, album}]
 
 await fs.writeFile('./src/albums/index.json', JSON.stringify(newAlbumData, null, 4))
