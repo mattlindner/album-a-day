@@ -1056,5 +1056,13 @@
             "artist": "Coroner",
             "album": "Grin"
         }
+    ],
+    "2025-05-11": [
+        {
+            "image": "master-killer_merauder.jpg",
+            "rym": "https://rateyourmusic.com/release/album/merauder/master-killer-2/",
+            "artist": "Merauder",
+            "album": "Master Killer"
+        }
     ]
 }
