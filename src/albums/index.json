@@ -1064,5 +1064,13 @@
             "artist": "Merauder",
             "album": "Master Killer"
         }
+    ],
+    "2025-05-12": [
+        {
+            "image": "planisphere_justice.jpg",
+            "rym": "https://rateyourmusic.com/release/ep/justice/planisphere/",
+            "artist": "Justice",
+            "album": "Planisphère"
+        }
     ]
 }
