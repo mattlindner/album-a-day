@@ -1088,5 +1088,29 @@
             "artist": "Wolves In The Throne Room",
             "album": "Diadem Of 12 Stars"
         }
+    ],
+    "2025-05-15": [
+        {
+            "image": "ashes-against-the-grain_agalloch.jpg",
+            "rym": "https://rateyourmusic.com/release/album/agalloch/ashes-against-the-grain/",
+            "artist": "Agalloch",
+            "album": "Ashes Against The Grain"
+        }
+    ],
+    "2025-05-16": [
+        {
+            "image": "forgotten-legends_drudkh.jpg",
+            "rym": "https://rateyourmusic.com/release/album/drudkh/forgotten-legends/",
+            "artist": "Drudkh",
+            "album": "Forgotten Legends"
+        }
+    ],
+    "2025-05-17": [
+        {
+            "image": "the-voice-of-steel_nokturnal-mortum.jpg",
+            "rym": "https://rateyourmusic.com/release/album/nokturnal-mortum/%D0%B3%D0%BE%D0%BB%D0%BE%D1%81-%D1%81%D1%82%D0%B0%D0%BB%D1%96/",
+            "artist": "Nokturnal Mortum",
+            "album": "The Voice of Steel"
+        }
     ]
 }
