@@ -1128,5 +1128,13 @@
             "artist": "Immolation",
             "album": "Unholy Cult"
         }
+    ],
+    "2025-05-20": [
+        {
+            "image": "the-river_bruce-springsteen.jpg",
+            "rym": "https://rateyourmusic.com/release/album/bruce-springsteen/the-river/",
+            "artist": "Bruce Springsteen",
+            "album": "The River"
+        }
     ]
 }
