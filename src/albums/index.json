@@ -1136,5 +1136,13 @@
             "artist": "Bruce Springsteen",
             "album": "The River"
         }
+    ],
+    "2025-05-21": [
+        {
+            "image": "heavy-heavy_young-fathers.jpg",
+            "rym": "https://rateyourmusic.com/release/album/young-fathers/heavy-heavy/",
+            "artist": "Young Fathers",
+            "album": "Heavy Heavy"
+        }
     ]
 }
