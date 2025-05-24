@@ -1160,5 +1160,13 @@
             "artist": "Havukruunu",
             "album": "Kelle Surut Soi"
         }
+    ],
+    "2025-05-24": [
+        {
+            "image": "tulimyrsky_moonsorrow.jpg",
+            "rym": "https://rateyourmusic.com/release/ep/moonsorrow/tulimyrsky_ep/",
+            "artist": "Moonsorrow",
+            "album": "Tulimyrsky"
+        }
     ]
 }
