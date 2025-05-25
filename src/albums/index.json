@@ -1168,5 +1168,13 @@
             "artist": "Moonsorrow",
             "album": "Tulimyrsky"
         }
+    ],
+    "2025-05-25": [
+        {
+            "image": "akuma-no-uta_boris.jpg",
+            "rym": "https://rateyourmusic.com/release/album/boris/%E3%81%82%E3%81%8F%E3%81%BE%E3%81%AE%E3%81%86%E3%81%9F/",
+            "artist": "Boris",
+            "album": "Akuma no uta"
+        }
     ]
 }
