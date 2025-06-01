@@ -1224,5 +1224,13 @@
             "artist": "In Flames",
             "album": "Whoracle"
         }
+    ],
+    "2025-06-01": [
+        {
+            "image": "oracle-moon_garden-of-shadows.jpg",
+            "rym": "https://rateyourmusic.com/release/album/garden-of-shadows/oracle-moon/",
+            "artist": "Garden Of Shadows",
+            "album": "Oracle Moon"
+        }
     ]
 }
