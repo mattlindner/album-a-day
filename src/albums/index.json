@@ -1232,5 +1232,13 @@
             "artist": "Garden Of Shadows",
             "album": "Oracle Moon"
         }
+    ],
+    "2025-06-02": [
+        {
+            "image": "colony_in-flames.jpg",
+            "rym": "https://rateyourmusic.com/release/album/in-flames/colony/",
+            "artist": "In Flames",
+            "album": "Colony"
+        }
     ]
 }
