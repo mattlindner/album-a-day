@@ -1240,5 +1240,13 @@
             "artist": "In Flames",
             "album": "Colony"
         }
+    ],
+    "2025-06-03": [
+        {
+            "image": "clayman_in-flames.jpg",
+            "rym": "https://rateyourmusic.com/release/album/in-flames/clayman/",
+            "artist": "In Flames",
+            "album": "Clayman"
+        }
     ]
 }
