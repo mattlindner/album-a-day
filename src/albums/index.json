@@ -1248,5 +1248,13 @@
             "artist": "In Flames",
             "album": "Clayman"
         }
+    ],
+    "2025-06-04": [
+        {
+            "image": "the-gallery_dark-tranquillity.jpg",
+            "rym": "https://rateyourmusic.com/release/album/dark-tranquillity/the-gallery/",
+            "artist": "Dark Tranquillity",
+            "album": "The Gallery"
+        }
     ]
 }
