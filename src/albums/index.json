@@ -1256,5 +1256,13 @@
             "artist": "Dark Tranquillity",
             "album": "The Gallery"
         }
+    ],
+    "2025-06-05": [
+        {
+            "image": "avlivsritualer_vanvidd.jpg",
+            "rym": "https://rateyourmusic.com/release/album/vanvidd/avlivsritualer/",
+            "artist": "Vanvidd",
+            "album": "Avlivsritualer"
+        }
     ]
 }
