@@ -1288,5 +1288,13 @@
             "artist": "Estas Tonne",
             "album": "Internal Flight"
         }
+    ],
+    "2025-06-09": [
+        {
+            "image": "winters-gate_insomnium.jpg",
+            "rym": "https://rateyourmusic.com/release/album/insomnium/winters-gate/",
+            "artist": "Insomnium",
+            "album": "Winters Gate"
+        }
     ]
 }
