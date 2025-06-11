@@ -1304,5 +1304,13 @@
             "artist": "Insomnium",
             "album": "Above The Weeping World"
         }
+    ],
+    "2025-06-11": [
+        {
+            "image": "pet-sounds_the-beach-boys.jpg",
+            "rym": "https://rateyourmusic.com/release/album/the-beach-boys/pet-sounds/",
+            "artist": "The Beach Boys",
+            "album": "Pet Sounds"
+        }
     ]
 }
