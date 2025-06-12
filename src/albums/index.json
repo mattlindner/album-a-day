@@ -1312,5 +1312,13 @@
             "artist": "The Beach Boys",
             "album": "Pet Sounds"
         }
+    ],
+    "2025-06-12": [
+        {
+            "image": "abigail_king-diamond.jpg",
+            "rym": "https://rateyourmusic.com/release/album/king-diamond/abigail/",
+            "artist": "King Diamond",
+            "album": "Abigail"
+        }
     ]
 }
