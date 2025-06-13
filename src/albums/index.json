@@ -1320,5 +1320,13 @@
             "artist": "King Diamond",
             "album": "Abigail"
         }
+    ],
+    "2025-06-13": [
+        {
+            "image": "conspiracy_king-diamond.jpg",
+            "rym": "https://rateyourmusic.com/release/album/king-diamond/conspiracy/",
+            "artist": "King Diamond",
+            "album": "Conspiracy"
+        }
     ]
 }
