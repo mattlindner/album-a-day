@@ -1328,5 +1328,13 @@
             "artist": "King Diamond",
             "album": "Conspiracy"
         }
+    ],
+    "2025-06-14": [
+        {
+            "image": "moontower_dan-swano.jpg",
+            "rym": "https://rateyourmusic.com/release/album/dan-swano/moontower/",
+            "artist": "Dan Swano",
+            "album": "Moontower"
+        }
     ]
 }
