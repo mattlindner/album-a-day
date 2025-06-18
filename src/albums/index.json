@@ -1360,5 +1360,13 @@
             "artist": "Hum",
             "album": "You'd Prefer an Astronaut "
         }
+    ],
+    "2025-06-18": [
+        {
+            "image": "with-oden-on-our-side_amon-amarth.jpg",
+            "rym": "https://rateyourmusic.com/release/album/amon-amarth/with-oden-on-our-side/",
+            "artist": "Amon Amarth",
+            "album": "With Oden On Our Side"
+        }
     ]
 }
