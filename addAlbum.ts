@@ -6,7 +6,7 @@ import albums from "./src/albums"
 import deburr from "lodash.deburr"
 
 function toKebabCase(str: string): string {
-	return deburr(str).toLowerCase().trim().replace(/ /g, "-").replace(/[.]/g, "")
+	return deburr(str).toLowerCase().trim().replace(/ /g, "-").replace(/[.]/g, "").replace(/\//g, "")
 }
 
 const today = new Date()
