@@ -1384,5 +1384,13 @@
             "artist": "Basic Channel",
             "album": "Phylyps Trak"
         }
+    ],
+    "2025-06-21": [
+        {
+            "image": "bee-thousand_guided-by-voices.jpg",
+            "rym": "https://rateyourmusic.com/release/album/guided-by-voices/bee-thousand/",
+            "artist": "Guided By Voices",
+            "album": "Bee Thousand"
+        }
     ]
 }
