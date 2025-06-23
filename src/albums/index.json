@@ -1400,5 +1400,13 @@
             "artist": "McKinley Dixon",
             "album": "Magic, Alive!"
         }
+    ],
+    "2025-06-23": [
+        {
+            "image": "diamond-eyes_deftones.jpg",
+            "rym": "https://rateyourmusic.com/release/album/deftones/diamond-eyes/",
+            "artist": "Deftones",
+            "album": "Diamond Eyes"
+        }
     ]
 }
