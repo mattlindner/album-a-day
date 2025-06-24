@@ -1400,5 +1400,13 @@
             "artist": "McKinley Dixon",
             "album": "Magic, Alive!"
         }
+    ],
+    "2025-06-23": [
+        {
+            "image": "paradise-valley_grouper.jpg",
+            "rym": "https://rateyourmusic.com/release/ep/grouper/paradise-valley/",
+            "artist": "Grouper",
+            "album": "Paradise Valley"
+        }
     ]
 }
