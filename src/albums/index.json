@@ -1408,5 +1408,13 @@
             "artist": "Grouper",
             "album": "Paradise Valley"
         }
+    ],
+    "2025-06-24": [
+        {
+            "image": "ohms_deftones.jpg",
+            "rym": "https://rateyourmusic.com/release/album/deftones/ohms/",
+            "artist": "Deftones",
+            "album": "Ohms"
+        }
     ]
 }
