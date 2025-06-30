@@ -1456,5 +1456,13 @@
             "artist": "Love Lost But Not Forgotten",
             "album": "Upon The Right I Saw A New Misery"
         }
+    ],
+    "2025-06-30": [
+        {
+            "image": "birthing_swans.jpg",
+            "rym": "https://rateyourmusic.com/release/album/swans/birthing/",
+            "artist": "Swans",
+            "album": "Birthing"
+        }
     ]
 }
