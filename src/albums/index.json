@@ -1472,5 +1472,13 @@
             "artist": "Mitski",
             "album": "Bury Me At Makeout Creek"
         }
+    ],
+    "2025-07-02": [
+        {
+            "image": "the-outer-limits_voivod.jpg",
+            "rym": "https://rateyourmusic.com/release/album/voivod/the-outer-limits/",
+            "artist": "Voivod",
+            "album": "The Outer Limits"
+        }
     ]
 }
