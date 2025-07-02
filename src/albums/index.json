@@ -1464,5 +1464,13 @@
             "artist": "Swans",
             "album": "Birthing"
         }
+    ],
+    "2025-07-01": [
+        {
+            "image": "bury-me-at-makeout-creek_mitski.jpg",
+            "rym": "https://rateyourmusic.com/release/album/mitski/bury-me-at-makeout-creek/",
+            "artist": "Mitski",
+            "album": "Bury Me At Makeout Creek"
+        }
     ]
 }
