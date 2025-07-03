@@ -1480,5 +1480,13 @@
             "artist": "Voivod",
             "album": "The Outer Limits"
         }
+    ],
+    "2025-07-03": [
+        {
+            "image": "heretic_disembodied.jpg",
+            "rym": "https://rateyourmusic.com/release/album/disembodied/heretic/",
+            "artist": "Disembodied",
+            "album": "Heretic"
+        }
     ]
 }
