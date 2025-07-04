@@ -1488,5 +1488,13 @@
             "artist": "Disembodied",
             "album": "Heretic"
         }
+    ],
+    "2025-07-04": [
+        {
+            "image": "malo_malo.jpg",
+            "rym": "https://rateyourmusic.com/release/album/malo/malo/",
+            "artist": "Malo",
+            "album": "Malo"
+        }
     ]
 }
