@@ -1512,5 +1512,13 @@
             "artist": "pageninetynine",
             "album": "Document #8"
         }
+    ],
+    "2025-07-07": [
+        {
+            "image": "document-5_pageninetynine.jpg",
+            "rym": "https://rateyourmusic.com/release/album/pg_99/document-5/",
+            "artist": "pageninetynine",
+            "album": "Document #5"
+        }
     ]
 }
