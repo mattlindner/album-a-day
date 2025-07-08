@@ -1520,5 +1520,13 @@
             "artist": "pageninetynine",
             "album": "Document #5"
         }
+    ],
+    "2025-07-08": [
+        {
+            "image": "fatal-portrait_king-diamond.jpg",
+            "rym": "https://rateyourmusic.com/release/album/king-diamond/fatal-portrait/",
+            "artist": "King Diamond",
+            "album": "Fatal Portrait"
+        }
     ]
 }
