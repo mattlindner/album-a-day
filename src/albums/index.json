@@ -1576,5 +1576,13 @@
             "artist": "Silvio Rodriguez",
             "album": "Al final de este viaje..."
         }
+    ],
+    "2025-07-15": [
+        {
+            "image": "el-derecho-de-vivir-en-paz_victor-jara.jpg",
+            "rym": "https://rateyourmusic.com/release/album/victor-jara/el-derecho-de-vivir-en-paz-5/",
+            "artist": "Víctor Jara",
+            "album": "El derecho de vivir en paz"
+        }
     ]
 }
