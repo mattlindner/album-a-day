@@ -1584,5 +1584,13 @@
             "artist": "Víctor Jara",
             "album": "El derecho de vivir en paz"
         }
+    ],
+    "2025-07-16": [
+        {
+            "image": "samurai_lupe-fiasco.jpg",
+            "rym": "https://rateyourmusic.com/release/album/lupe-fiasco/samurai/",
+            "artist": "Lupe Fiasco",
+            "album": "Samurai"
+        }
     ]
 }
