@@ -1640,5 +1640,13 @@
             "artist": "Tyler, The Creator",
             "album": "Dont Tap The Glass"
         }
+    ],
+    "2025-07-23": [
+        {
+            "image": "diary-of-a-madman_ozzy-osbourne.jpg",
+            "rym": "https://rateyourmusic.com/release/album/ozzy-osbourne/diary-of-a-madman/",
+            "artist": "Ozzy Osbourne",
+            "album": "Diary Of A Madman"
+        }
     ]
 }
