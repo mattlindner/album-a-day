@@ -1648,5 +1648,13 @@
             "artist": "Ozzy Osbourne",
             "album": "Diary Of A Madman"
         }
+    ],
+    "2025-07-24": [
+        {
+            "image": "mystification_manilla-road.jpg",
+            "rym": "https://rateyourmusic.com/release/album/manilla-road/mystification/",
+            "artist": "Manilla Road",
+            "album": "Mystification"
+        }
     ]
 }
