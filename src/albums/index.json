@@ -1656,5 +1656,13 @@
             "artist": "Manilla Road",
             "album": "Mystification"
         }
+    ],
+    "2025-07-25": [
+        {
+            "image": "the-listening_little-brother.jpg",
+            "rym": "https://rateyourmusic.com/release/album/little-brother/the-listening/",
+            "artist": "Little Brother",
+            "album": "The Listening"
+        }
     ]
 }
