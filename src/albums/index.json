@@ -1688,5 +1688,13 @@
             "artist": "Inanna",
             "album": "Void Of Unending Depths"
         }
+    ],
+    "2025-07-29": [
+        {
+            "image": "vanisher-horizon-scraper_quadeca.jpg",
+            "rym": "https://rateyourmusic.com/release/album/quadeca/vanisher-horizon-scraper/",
+            "artist": "Quadeca",
+            "album": "Vanisher Horizon Scraper"
+        }
     ]
 }
