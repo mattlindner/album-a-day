@@ -1696,5 +1696,13 @@
             "artist": "Quadeca",
             "album": "Vanisher Horizon Scraper"
         }
+    ],
+    "2025-07-30": [
+        {
+            "image": "nightfall_candlemass.jpg",
+            "rym": "https://rateyourmusic.com/release/album/candlemass/nightfall/",
+            "artist": "Candlemass",
+            "album": "Nightfall"
+        }
     ]
 }
