@@ -1704,5 +1704,13 @@
             "artist": "Candlemass",
             "album": "Nightfall"
         }
+    ],
+    "2025-07-31": [
+        {
+            "image": "dehumanizer_black-sabbath.jpg",
+            "rym": "https://rateyourmusic.com/release/album/black-sabbath/dehumanizer/",
+            "artist": "Black Sabbath",
+            "album": "Dehumanizer"
+        }
     ]
 }
