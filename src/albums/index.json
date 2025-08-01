@@ -1712,5 +1712,13 @@
             "artist": "Black Sabbath",
             "album": "Dehumanizer"
         }
+    ],
+    "2025-08-01": [
+        {
+            "image": "discouraged-ones_katatonia.jpg",
+            "rym": "https://rateyourmusic.com/release/album/katatonia/discouraged-ones/",
+            "artist": "Katatonia",
+            "album": "Discouraged Ones"
+        }
     ]
 }
