@@ -1720,5 +1720,13 @@
             "artist": "Katatonia",
             "album": "Discouraged Ones"
         }
+    ],
+    "2025-08-02": [
+        {
+            "image": "superunknown_soundgarden.jpg",
+            "rym": "https://rateyourmusic.com/release/album/soundgarden/superunknown/",
+            "artist": "Soundgarden",
+            "album": "Superunknown"
+        }
     ]
 }
