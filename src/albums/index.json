@@ -1728,5 +1728,13 @@
             "artist": "Soundgarden",
             "album": "Superunknown"
         }
+    ],
+    "2025-08-03": [
+        {
+            "image": "sabotage_black-sabbath.jpg",
+            "rym": "https://rateyourmusic.com/release/album/black-sabbath/sabotage/",
+            "artist": "Black Sabbath",
+            "album": "Sabotage"
+        }
     ]
 }
