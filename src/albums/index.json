@@ -1744,5 +1744,13 @@
             "artist": "Black Sabbath",
             "album": "Heaven And Hell"
         }
+    ],
+    "2025-08-05": [
+        {
+            "image": "somewhere-in-time_iron-maiden.jpg",
+            "rym": "https://rateyourmusic.com/release/album/iron-maiden/somewhere-in-time/",
+            "artist": "Iron Maiden",
+            "album": "Somewhere In Time"
+        }
     ]
 }
