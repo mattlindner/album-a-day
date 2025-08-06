@@ -1752,5 +1752,13 @@
             "artist": "Iron Maiden",
             "album": "Somewhere In Time"
         }
+    ],
+    "2025-08-06": [
+        {
+            "image": "grey-area_little-simz.jpg",
+            "rym": "https://rateyourmusic.com/release/album/little-simz/grey-area/",
+            "artist": "Little Simz",
+            "album": "Grey Area"
+        }
     ]
 }
