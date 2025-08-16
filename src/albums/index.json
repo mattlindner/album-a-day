@@ -1832,5 +1832,13 @@
             "artist": "Supertramp",
             "album": "Breakfast In America"
         }
+    ],
+    "2025-08-16": [
+        {
+            "image": "400-degreez_juvenile.jpg",
+            "rym": "https://rateyourmusic.com/release/album/juvenile/400-degreez/",
+            "artist": "Juvenile",
+            "album": "400 Degreez"
+        }
     ]
 }
