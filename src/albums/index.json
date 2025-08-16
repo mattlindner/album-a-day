@@ -1824,5 +1824,13 @@
             "artist": "Rainbow",
             "album": "Long Live Rock N Roll"
         }
+    ],
+    "2025-08-15": [
+        {
+            "image": "breakfast-in-america_supertramp.jpg",
+            "rym": "https://rateyourmusic.com/release/album/supertramp/breakfast-in-america/",
+            "artist": "Supertramp",
+            "album": "Breakfast In America"
+        }
     ]
 }
