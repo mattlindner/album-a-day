@@ -1840,5 +1840,13 @@
             "artist": "Juvenile",
             "album": "400 Degreez"
         }
+    ],
+    "2025-08-17": [
+        {
+            "image": "i_meshuggah.jpg",
+            "rym": "https://rateyourmusic.com/release/ep/meshuggah/i/",
+            "artist": "Meshuggah",
+            "album": "I"
+        }
     ]
 }
