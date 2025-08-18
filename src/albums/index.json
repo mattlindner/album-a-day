@@ -1848,5 +1848,13 @@
             "artist": "Meshuggah",
             "album": "I"
         }
+    ],
+    "2025-08-18": [
+        {
+            "image": "koloss_meshuggah.jpg",
+            "rym": "https://rateyourmusic.com/release/album/meshuggah/koloss/",
+            "artist": "Meshuggah",
+            "album": "Koloss"
+        }
     ]
 }
