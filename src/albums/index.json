@@ -1856,5 +1856,13 @@
             "artist": "Meshuggah",
             "album": "Koloss"
         }
+    ],
+    "2025-08-19": [
+        {
+            "image": "songs-of-hiraeth_panopticon.jpg",
+            "rym": "https://rateyourmusic.com/release/comp/panopticon/songs-of-hiraeth/",
+            "artist": "Panopticon",
+            "album": "Songs Of Hiraeth"
+        }
     ]
 }
