@@ -1872,5 +1872,13 @@
             "artist": "Lil Ugly Mane",
             "album": "I Believe The World Would Be A Better Place Without You"
         }
+    ],
+    "2025-08-21": [
+        {
+            "image": "muerte_canserbero.jpg",
+            "rym": "https://rateyourmusic.com/release/album/canserbero/muerte/",
+            "artist": "Canserbero",
+            "album": "Muerte"
+        }
     ]
 }
