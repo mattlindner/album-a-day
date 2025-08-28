@@ -1928,5 +1928,13 @@
             "artist": "Earl Sweatshirt",
             "album": "Solace"
         }
+    ],
+    "2025-08-28": [
+        {
+            "image": "resurrection_common.jpg",
+            "rym": "https://rateyourmusic.com/release/album/common-sense/resurrection/",
+            "artist": "Common",
+            "album": "Resurrection"
+        }
     ]
 }
