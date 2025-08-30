@@ -1936,5 +1936,13 @@
             "artist": "Common",
             "album": "Resurrection"
         }
+    ],
+    "2025-08-29": [
+        {
+            "image": "electric-circus_common.jpg",
+            "rym": "https://rateyourmusic.com/release/album/common/electric-circus/",
+            "artist": "Common",
+            "album": "Electric Circus"
+        }
     ]
 }
