@@ -1960,5 +1960,13 @@
             "artist": "Racionais MC's",
             "album": "Nada como um dia após o outro dia"
         }
+    ],
+    "2025-09-01": [
+        {
+            "image": "siempre-es-hoy_gustavo-cerati.jpg",
+            "rym": "https://rateyourmusic.com/release/album/gustavo-cerati/siempre-es-hoy/",
+            "artist": "Gustavo Cerati",
+            "album": "Siempre Es Hoy"
+        }
     ]
 }
