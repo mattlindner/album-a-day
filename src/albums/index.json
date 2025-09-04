@@ -1984,5 +1984,13 @@
             "artist": "Nas",
             "album": "King's Disease III"
         }
+    ],
+    "2025-09-04": [
+        {
+            "image": "magic_nas.jpg",
+            "rym": "https://rateyourmusic.com/release/album/nas/magic/",
+            "artist": "Nas",
+            "album": "Magic"
+        }
     ]
 }
