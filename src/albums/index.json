@@ -2024,5 +2024,13 @@
             "artist": "Fela Ransome Kuti & Africa 70",
             "album": "Expensive Shit"
         }
+    ],
+    "2025-09-09": [
+        {
+            "image": "big-blue-blanket_wilson-ridge.jpg",
+            "rym": "https://wilsonridge.bandcamp.com/album/big-blue-blanket",
+            "artist": "Wilson Ridge",
+            "album": "Big Blue Blanket"
+        }
     ]
 }
