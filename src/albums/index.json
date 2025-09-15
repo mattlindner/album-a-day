@@ -2064,5 +2064,13 @@
             "artist": "La Dispute",
             "album": "Somewhere At The Bottom Of The River Between Vega And Altair"
         }
+    ],
+    "2025-09-14": [
+        {
+            "image": "diamond-life_sade.jpg",
+            "rym": "https://rateyourmusic.com/release/album/sade/diamond-life/",
+            "artist": "Sade",
+            "album": "Diamond Life"
+        }
     ]
 }
