@@ -2088,5 +2088,21 @@
             "artist": "Gang Starr",
             "album": "Step In The Arena"
         }
+    ],
+    "2025-09-17": [
+        {
+            "image": "the-cars_the-cars.jpg",
+            "rym": "https://rateyourmusic.com/release/album/the-cars/the-cars/",
+            "artist": "The Cars",
+            "album": "The Cars"
+        }
+    ],
+    "2025-09-18": [
+        {
+            "image": "bossanova_pixies.jpg",
+            "rym": "https://rateyourmusic.com/release/album/pixies/bossanova/",
+            "artist": "Pixies",
+            "album": "Bossanova"
+        }
     ]
 }
