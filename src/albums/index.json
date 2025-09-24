@@ -2144,5 +2144,13 @@
             "artist": "Townes Van Zandt",
             "album": "Our Mother The Mountain"
         }
+    ],
+    "2025-09-24": [
+        {
+            "image": "juju_siouxsie-and-the-banshees.jpg",
+            "rym": "https://rateyourmusic.com/release/album/siouxsie-and-the-banshees/juju/",
+            "artist": "Siouxsie And The Banshees",
+            "album": "Juju"
+        }
     ]
 }
