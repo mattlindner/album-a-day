@@ -2200,5 +2200,13 @@
             "artist": "Pink Floyd",
             "album": "Pink Floyd at Pompeii - MCMLXXII"
         }
+    ],
+    "2025-10-01": [
+        {
+            "image": "blasphemy-made-flesh_cryptopsy.jpg",
+            "rym": "https://rateyourmusic.com/release/album/cryptopsy/blasphemy-made-flesh/",
+            "artist": "Cryptopsy",
+            "album": "Blasphemy Made Flesh"
+        }
     ]
 }
