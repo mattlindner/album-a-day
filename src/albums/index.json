@@ -2208,5 +2208,13 @@
             "artist": "Cryptopsy",
             "album": "Blasphemy Made Flesh"
         }
+    ],
+    "2025-10-02": [
+        {
+            "image": "the-last-will-and-testament_opeth.jpg",
+            "rym": "https://rateyourmusic.com/release/album/opeth/the-last-will-and-testament/",
+            "artist": "Opeth",
+            "album": "The Last Will And Testament"
+        }
     ]
 }
