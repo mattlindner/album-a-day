@@ -2216,5 +2216,13 @@
             "artist": "Opeth",
             "album": "Orchid"
         }
+    ],
+    "2025-10-03": [
+        {
+            "image": "pale-communion_opeth.jpg",
+            "rym": "https://rateyourmusic.com/release/album/opeth/pale-communion/",
+            "artist": "Opeth",
+            "album": "Pale Communion"
+        }
     ]
 }
