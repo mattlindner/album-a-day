@@ -2352,5 +2352,13 @@
             "artist": "Kneecap",
             "album": "Fine Art"
         }
+    ],
+    "2025-10-20": [
+        {
+            "image": "a-day-late-and-a-dollar-short_the-ballers.jpg",
+            "rym": "https://rateyourmusic.com/release/album/the-ballers/a-day-late-and-a-dollar-short/",
+            "artist": "The Ballers",
+            "album": "A Day Late And A Dollar Short"
+        }
     ]
 }
