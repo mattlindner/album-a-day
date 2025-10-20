@@ -2344,5 +2344,13 @@
             "artist": "Turnstile",
             "album": "Step 2 Rhythm"
         }
+    ],
+    "2025-10-19": [
+        {
+            "image": "fine-art_kneecap.jpg",
+            "rym": "https://rateyourmusic.com/release/album/kneecap/fine-art/",
+            "artist": "Kneecap",
+            "album": "Fine Art"
+        }
     ]
 }
