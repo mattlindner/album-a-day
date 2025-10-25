@@ -2392,5 +2392,13 @@
             "artist": "Big Daddy Kane",
             "album": "Long Live The Kane"
         }
+    ],
+    "2025-10-25": [
+        {
+            "image": "blazing-arrow_blackalicious.jpg",
+            "rym": "https://rateyourmusic.com/release/album/blackalicious/blazing-arrow/",
+            "artist": "Blackalicious",
+            "album": "Blazing Arrow"
+        }
     ]
 }
