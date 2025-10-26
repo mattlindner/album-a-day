@@ -2400,5 +2400,13 @@
             "artist": "Blackalicious",
             "album": "Blazing Arrow"
         }
+    ],
+    "2025-10-26": [
+        {
+            "image": "train-of-thought_reflection-eternal.jpg",
+            "rym": "https://rateyourmusic.com/release/album/reflection-eternal/train-of-thought/",
+            "artist": "Reflection Eternal",
+            "album": "Train Of Thought"
+        }
     ]
 }
