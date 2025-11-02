@@ -2456,5 +2456,13 @@
             "artist": "Meat Puppets",
             "album": "Meat Puppets II"
         }
+    ],
+    "2025-11-02": [
+        {
+            "image": "liar_the-jesus-lizard.jpg",
+            "rym": "https://rateyourmusic.com/release/album/the-jesus-lizard/liar/",
+            "artist": "The Jesus Lizard",
+            "album": "Liar"
+        }
     ]
 }
