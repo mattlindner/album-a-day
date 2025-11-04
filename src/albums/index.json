@@ -2472,5 +2472,13 @@
             "artist": "Meat Puppets",
             "album": "Up On The Sun"
         }
+    ],
+    "2025-11-04": [
+        {
+            "image": "music-to-driveby_comptons-most-wanted.jpg",
+            "rym": "https://rateyourmusic.com/release/album/comptons-most-wanted/music-to-driveby/",
+            "artist": "Comptons Most Wanted",
+            "album": "Music To Driveby"
+        }
     ]
 }
