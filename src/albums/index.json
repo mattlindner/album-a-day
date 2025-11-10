@@ -2520,5 +2520,13 @@
             "artist": "Candelabro",
             "album": "Deseo Carne Y Voluntad"
         }
+    ],
+    "2025-11-10": [
+        {
+            "image": "jurassic-5_jurassic-5.jpg",
+            "rym": "https://rateyourmusic.com/release/album/jurassic-5/jurassic-5/",
+            "artist": "Jurassic 5",
+            "album": "Jurassic 5"
+        }
     ]
 }
