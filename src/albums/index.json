@@ -2592,5 +2592,13 @@
             "artist": "Danny Brown",
             "album": "The Hybrid"
         }
+    ],
+    "2025-11-19": [
+        {
+            "image": "tinderbox_siouxsie-and-the-banshees.jpg",
+            "rym": "https://rateyourmusic.com/release/album/siouxsie-and-the-banshees/tinderbox/",
+            "artist": "Siouxsie And The Banshees",
+            "album": "Tinderbox"
+        }
     ]
 }
