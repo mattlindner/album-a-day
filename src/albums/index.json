@@ -2600,5 +2600,13 @@
             "artist": "Siouxsie And The Banshees",
             "album": "Tinderbox"
         }
+    ],
+    "2025-11-20": [
+        {
+            "image": "eye-in-the-sky_the-alan-parsons-project.jpg",
+            "rym": "https://rateyourmusic.com/release/album/the-alan-parsons-project/eye-in-the-sky/",
+            "artist": "The Alan Parsons Project",
+            "album": "Eye In The Sky"
+        }
     ]
 }
