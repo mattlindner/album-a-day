@@ -2608,5 +2608,13 @@
             "artist": "The Alan Parsons Project",
             "album": "Eye In The Sky"
         }
+    ],
+    "2025-11-21": [
+        {
+            "image": "666_aphrodite's-child.jpg",
+            "rym": "https://rateyourmusic.com/release/album/aphrodites-child/666/",
+            "artist": "Aphrodite's Child",
+            "album": "666"
+        }
     ]
 }
