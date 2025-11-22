@@ -2616,5 +2616,13 @@
             "artist": "Aphrodite's Child",
             "album": "666"
         }
+    ],
+    "2025-11-22": [
+        {
+            "image": "cabin-in-the-sky_de-la-soul.jpg",
+            "rym": "https://rateyourmusic.com/release/album/de-la-soul/cabin-in-the-sky/",
+            "artist": "De La Soul",
+            "album": "Cabin In The Sky"
+        }
     ]
 }
