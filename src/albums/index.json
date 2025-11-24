@@ -2632,5 +2632,13 @@
             "artist": "Lee Morgan",
             "album": "Search For The New Land"
         }
+    ],
+    "2025-11-24": [
+        {
+            "image": "the-grind-date_de-la-soul.jpg",
+            "rym": "https://rateyourmusic.com/release/album/de-la-soul/the-grind-date/",
+            "artist": "De La Soul",
+            "album": "The Grind Date"
+        }
     ]
 }
