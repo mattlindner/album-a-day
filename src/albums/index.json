@@ -2640,5 +2640,13 @@
             "artist": "De La Soul",
             "album": "The Grind Date"
         }
+    ],
+    "2025-11-25": [
+        {
+            "image": "tranquilizer_oneohtrix-point-never.jpg",
+            "rym": "https://rateyourmusic.com/release/album/oneohtrix-point-never/tranquilizer/",
+            "artist": "Oneohtrix Point Never",
+            "album": "Tranquilizer"
+        }
     ]
 }
