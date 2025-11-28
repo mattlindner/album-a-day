@@ -2664,5 +2664,13 @@
             "artist": "Oneohtrix Point Never",
             "album": "Garden Of Delete"
         }
+    ],
+    "2025-11-28": [
+        {
+            "image": "nia_blackalicious.jpg",
+            "rym": "https://rateyourmusic.com/release/album/blackalicious/nia/",
+            "artist": "Blackalicious",
+            "album": "Nia"
+        }
     ]
 }
