@@ -2688,5 +2688,13 @@
             "artist": "Stetsasonic",
             "album": "In Full Gear"
         }
+    ],
+    "2025-12-01": [
+        {
+            "image": "i-phantom_mr-lif.jpg",
+            "rym": "https://rateyourmusic.com/release/album/mr-lif/i-phantom/",
+            "artist": "Mr Lif",
+            "album": "I Phantom"
+        }
     ]
 }
