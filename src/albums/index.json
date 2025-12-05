@@ -2712,5 +2712,13 @@
             "artist": "Scratch Acid",
             "album": "Scratch Acid"
         }
+    ],
+    "2025-12-04": [
+        {
+            "image": "atomizer_big-black.jpg",
+            "rym": "https://rateyourmusic.com/release/album/big-black/atomizer/",
+            "artist": "Big Black",
+            "album": "Atomizer"
+        }
     ]
 }
