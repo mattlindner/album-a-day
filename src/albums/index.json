@@ -2720,5 +2720,13 @@
             "artist": "Big Black",
             "album": "Atomizer"
         }
+    ],
+    "2025-12-05": [
+        {
+            "image": "the-old-prince_shad.jpg",
+            "rym": "https://rateyourmusic.com/release/album/shad/the-old-prince/",
+            "artist": "Shad",
+            "album": "The Old Prince"
+        }
     ]
 }
