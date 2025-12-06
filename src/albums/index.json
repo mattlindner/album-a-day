@@ -2728,5 +2728,13 @@
             "artist": "Shad",
             "album": "The Old Prince"
         }
+    ],
+    "2025-12-06": [
+        {
+            "image": "circles_mac-miller.jpg",
+            "rym": "https://rateyourmusic.com/release/album/mac-miller/circles/",
+            "artist": "Mac Miller",
+            "album": "Circles"
+        }
     ]
 }
