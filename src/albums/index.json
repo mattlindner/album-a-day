@@ -2744,5 +2744,13 @@
             "artist": "Pete Rock",
             "album": "Soul Survivor"
         }
+    ],
+    "2025-12-08": [
+        {
+            "image": "off-the-wall_michael-jackson.jpg",
+            "rym": "https://rateyourmusic.com/release/album/michael-jackson/off-the-wall/",
+            "artist": "Michael Jackson",
+            "album": "Off The Wall"
+        }
     ]
 }
