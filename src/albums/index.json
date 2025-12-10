@@ -2760,5 +2760,13 @@
             "artist": "Michael Jackson",
             "album": "Thriller"
         }
+    ],
+    "2025-12-10": [
+        {
+            "image": "misery-index_assuck.jpg",
+            "rym": "https://rateyourmusic.com/release/album/assuck/misery-index/",
+            "artist": "Assück",
+            "album": "Misery Index"
+        }
     ]
 }
