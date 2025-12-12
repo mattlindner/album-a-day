@@ -2776,5 +2776,13 @@
             "artist": "Assück",
             "album": "Anticapital"
         }
+    ],
+    "2025-12-12": [
+        {
+            "image": "crowbar_crowbar.jpg",
+            "rym": "https://rateyourmusic.com/release/album/crowbar/crowbar/",
+            "artist": "Crowbar",
+            "album": "Crowbar"
+        }
     ]
 }
