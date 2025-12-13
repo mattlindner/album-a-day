@@ -2784,5 +2784,13 @@
             "artist": "Crowbar",
             "album": "Crowbar"
         }
+    ],
+    "2025-12-13": [
+        {
+            "image": "bad_michael-jackson.jpg",
+            "rym": "https://rateyourmusic.com/release/album/michael-jackson/bad/",
+            "artist": "Michael Jackson",
+            "album": "Bad"
+        }
     ]
 }
