@@ -2800,5 +2800,13 @@
             "artist": "Nasum",
             "album": "Helvete"
         }
+    ],
+    "2025-12-15": [
+        {
+            "image": "innuendo_queen.jpg",
+            "rym": "https://rateyourmusic.com/release/album/queen/innuendo/",
+            "artist": "Queen",
+            "album": "Innuendo"
+        }
     ]
 }
