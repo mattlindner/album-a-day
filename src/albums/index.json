@@ -2840,5 +2840,13 @@
             "artist": "Cocteau Twins",
             "album": "Treasure"
         }
+    ],
+    "2025-12-20": [
+        {
+            "image": "ray-of-light_madonna.jpg",
+            "rym": "https://rateyourmusic.com/release/album/madonna/ray-of-light/",
+            "artist": "Madonna",
+            "album": "Ray Of Light"
+        }
     ]
 }
