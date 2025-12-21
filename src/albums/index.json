@@ -2848,5 +2848,13 @@
             "artist": "Madonna",
             "album": "Ray Of Light"
         }
+    ],
+    "2025-12-21": [
+        {
+            "image": "little-earthquakes_tori-amos.jpg",
+            "rym": "https://rateyourmusic.com/release/album/tori-amos/little-earthquakes/",
+            "artist": "Tori Amos",
+            "album": "Little Earthquakes"
+        }
     ]
 }
