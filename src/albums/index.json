@@ -2896,5 +2896,13 @@
             "artist": "Tyler, The Creator",
             "album": "Chromakopia"
         }
+    ],
+    "2025-12-27": [
+        {
+            "image": "lux_rosalia.jpg",
+            "rym": "https://rateyourmusic.com/release/album/rosalia/lux/",
+            "artist": "Rosalía",
+            "album": "Lux"
+        }
     ]
 }
