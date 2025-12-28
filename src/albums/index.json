@@ -2904,5 +2904,13 @@
             "artist": "Rosalía",
             "album": "Lux"
         }
+    ],
+    "2025-12-28": [
+        {
+            "image": "confield_autechre.jpg",
+            "rym": "https://rateyourmusic.com/release/album/autechre/confield/",
+            "artist": "Autechre",
+            "album": "Confield"
+        }
     ]
 }
