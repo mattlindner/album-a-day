@@ -2928,5 +2928,13 @@
             "artist": "Demigod",
             "album": "Slumber of Sullen Eyes"
         }
+    ],
+    "2025-12-31": [
+        {
+            "image": "the-nocturnal-silence_necrophobic.jpg",
+            "rym": "https://rateyourmusic.com/release/album/necrophobic/the-nocturnal-silence/",
+            "artist": "Necrophobic",
+            "album": "The Nocturnal Silence"
+        }
     ]
 }
