@@ -47,7 +47,13 @@ const Calendar = ({ year, monthIndex, today, openModal }: CalendarProps) => {
 
 		const isToday = dateTimeString === today
 		const isFutureDate = dateTimeString > today
-		days.push({ day, dateTimeString, isToday, isFutureDate, albums: albums[dateTimeString] })
+		days.push({
+			day,
+			dateTimeString,
+			isToday,
+			isFutureDate,
+			albums: albums[dateTimeString],
+		})
 	}
 
 	return (
@@ -57,7 +63,9 @@ const Calendar = ({ year, monthIndex, today, openModal }: CalendarProps) => {
 			</h1>
 			<ul>
 				{dayNames.map((day, i) => (
-					<li className="day-name" key={i}>{day}</li>
+					<li className="day-name" key={i}>
+						{day}
+					</li>
 				))}
 				{days.map((day, index) => (
 					<Day key={index} day={day} openModal={openModal} />
